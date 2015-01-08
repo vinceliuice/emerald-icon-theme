@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="gnome-klotski.svg">
+  <defs
+     id="defs2987">
+    <linearGradient
+       id="linearGradient3835">
+      <stop
+         style="stop-color:#2f2f2f;stop-opacity:1;"
+         offset="0"
+         id="stop3837" />
+      <stop
+         style="stop-color:#515151;stop-opacity:1;"
+         offset="1"
+         id="stop3839" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3835"
+       id="linearGradient3841"
+       x1="3"
+       y1="24"
+       x2="45"
+       y2="24"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7"
+     inkscape:cx="10.984491"
+     inkscape:cy="32.972937"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2993" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="23,44"
+       id="guide2995" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="4,35"
+       id="guide2997" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="27,4"
+       id="guide2999" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="44,19"
+       id="guide3001" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <g
+       style="font-size:56px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3841);fill-opacity:1;stroke:none;font-family:'草檀斋毛泽东字体';-inkscape-font-specification:'草檀斋毛泽东字体 Bold Italic'"
+       id="text3831">
+      <path
+         id="path3846"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 42.28125,30.84375 -2.1875,0 c -1.312538,3.354174 -2.55212,5.541672 -3.71875,6.5625 -1.020868,1.020837 -2.4792,1.531253 -4.375,1.53125 l -17.28125,0 30.625,-28.65625 L 46,7.21875 l -32.375,0 -2.40625,9.40625 2.1875,0 c 1.166653,-4.37497 3.427067,-6.489552 6.78125,-6.34375 l 15.09375,0 L 4.65625,38.9375 4,42 39.4375,42 42.28125,30.84375"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 41.28125,30.234375 -2.1875,0 c -1.312538,3.354174 -2.55212,5.541672 -3.71875,6.5625 -1.020868,1.020837 -2.4792,1.531253 -4.375,1.53125 l -17.28125,0 30.625,-28.65625 0.65625,-3.0625 -32.375,0 -2.40625,9.40625 2.1875,0 c 1.166653,-4.37497 3.427067,-6.4895515 6.78125,-6.34375 l 15.09375,0 -30.625,28.65625 -0.65625,3.0625 35.4375,0 2.84375,-11.15625"
+         style=""
+         id="path3844" />
+    </g>
+  </g>
+</svg>

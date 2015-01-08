@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.91pre2 r13516"
+   sodipodi:docname="1.svg">
+  <defs
+     id="defs2987">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4142">
+      <stop
+         style="stop-color:#3f6bb3;stop-opacity:1"
+         offset="0"
+         id="stop4144" />
+      <stop
+         style="stop-color:#6ea3f8;stop-opacity:1"
+         offset="1"
+         id="stop4146" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4142"
+       id="linearGradient4148"
+       x1="4"
+       y1="24"
+       x2="44"
+       y2="24"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.8994949"
+     inkscape:cx="35.293511"
+     inkscape:cy="30.010113"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2993" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="23,44"
+       id="guide2995" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="4,35"
+       id="guide2997" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="27,4"
+       id="guide2999" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="44,19"
+       id="guide3001" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:url(#linearGradient4148);fill-opacity:1;stroke:none"
+       id="rect3003"
+       width="40"
+       height="40"
+       x="4"
+       y="4"
+       ry="0" />
+    <path
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none"
+       d="m 4,44 0,0 c 20,-1 20,-1 40,0 z"
+       id="path3257"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4027"
+       d="M 4,4 4,4 C 24,5 24,5 44,4 z"
+       style="opacity:0.75;fill:#ffffff;fill-opacity:1;stroke:none" />
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Pistara;-inkscape-font-specification:Pistara;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4150">
+      <path
+         d="m 18.082589,33.515743 1.2,0 0,-5.94 9.06,-16.56 -1.29,0 -8.37,15.24 -8.37,-15.24 -1.2900003,0 9.0600003,16.56 0,5.94 z"
+         style=""
+         id="path4159" />
+    </g>
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Pistara;-inkscape-font-specification:Pistara;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4154">
+      <path
+         d="m 21.176519,38.002796 0,-4.89 c 0.525,0.705 1.32,1.14 2.22,1.14 1.56,0 2.805,-1.335 2.805,-2.97 0,-1.635 -1.245,-2.955 -2.805,-2.955 -0.9,0 -1.695,0.42 -2.22,1.125 l 0,-0.825 -0.6,0 0,9.375 0.6,0 z m 4.425,-6.72 c 0,1.305 -0.975,2.37 -2.205,2.37 -1.425,0 -2.22,-1.23 -2.22,-2.43 0,-1.155 0.75,-2.295 2.22,-2.295 1.23,0 2.205,1.05 2.205,2.355 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Pistara;-inkscape-font-specification:Pistara;fill:#ffffff;fill-opacity:1"
+         id="path4162" />
+      <path
+         d="m 27.563238,38.002796 0,-4.89 c 0.525,0.705 1.32,1.14 2.22,1.14 1.56,0 2.805,-1.335 2.805,-2.97 0,-1.635 -1.245,-2.955 -2.805,-2.955 -0.9,0 -1.695,0.42 -2.22,1.125 l 0,-0.825 -0.6,0 0,9.375 0.6,0 z m 4.425,-6.72 c 0,1.305 -0.975,2.37 -2.205,2.37 -1.425,0 -2.22,-1.23 -2.22,-2.43 0,-1.155 0.75,-2.295 2.22,-2.295 1.23,0 2.205,1.05 2.205,2.355 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Pistara;-inkscape-font-specification:Pistara;fill:#ffffff;fill-opacity:1"
+         id="path4164" />
+      <path
+         d="m 38.374957,34.252796 0.6,0 0,-5.625 -0.6,0 0,0.84 c -0.525,-0.705 -1.32,-1.14 -2.22,-1.14 -1.56,0 -2.805,1.335 -2.805,2.97 0,1.635 1.245,2.955 2.805,2.955 0.9,0 1.695,-0.42 2.22,-1.125 l 0,1.125 z m -4.425,-2.955 c 0,-1.305 0.975,-2.37 2.205,-2.37 1.425,0 2.22,1.23 2.22,2.445 0,1.155 -0.75,2.28 -2.22,2.28 -1.23,0 -2.205,-1.05 -2.205,-2.355 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Pistara;-inkscape-font-specification:Pistara;fill:#ffffff;fill-opacity:1"
+         id="path4166" />
+    </g>
+  </g>
+</svg>
