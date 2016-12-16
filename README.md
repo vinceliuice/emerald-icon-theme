@@ -1,4 +1,4 @@
-emerald-icons-theme
-===================
+# Emerald
+=========
+Fresh and simple personality icon theme
 
-Clean and compact icon theme

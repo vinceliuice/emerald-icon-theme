@@ -13,7 +13,7 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.48+devel r"
    viewBox="0 0 22 22"
    sodipodi:docname="system-file-manager.svg">
   <defs
@@ -25,18 +25,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.303023"
-     inkscape:cx="0.64692528"
-     inkscape:cy="11.302504"
+     inkscape:zoom="25.212092"
+     inkscape:cx="12.406231"
+     inkscape:cy="11.837132"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="1366"
-     inkscape:window-height="744"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-height="718"
+     inkscape:window-x="-2"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      showguides="true">
     <inkscape:grid
@@ -93,11 +93,9 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="M 3,3 3,6 3,19 19,19 19,6 15,6 12,3 z m 1,1 7.5,0 3,3 L 4,7 z m 11,3 3,0 0,5 0,6 -14,0 0,-2 0,-9 z"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
+       d="M 3 3 L 3 6 L 3 19 L 19 19 L 19 6 L 15 6 L 12 3 L 3 3 z M 4 4 L 11.5 4 L 14.5 7 L 4 7 L 4 4 z M 11 9 L 18 9 L 18 12 L 18 18 L 4 18 L 4 16 L 8 12 L 11 9 z "
        transform="translate(0,1030.3622)"
-       id="rect3320"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccc" />
+       id="rect3320" />
   </g>
 </svg>

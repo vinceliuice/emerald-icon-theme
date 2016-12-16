@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   id="svg4439"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="gnome-sudoku.svg">
+  <defs
+     id="defs4441">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2743"
+       id="linearGradient3420"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9508324,0,0,0.9508324,1.1800283,-50.394208)"
+       x1="3.0649438"
+       y1="-1029.3732"
+       x2="24.625"
+       y2="-1007.3622" />
+    <linearGradient
+       id="linearGradient2743">
+      <stop
+         style="stop-color:#f9e9cf;stop-opacity:1;"
+         offset="0"
+         id="stop2745" />
+      <stop
+         style="stop-color:#f5f6f5;stop-opacity:1"
+         offset="1"
+         id="stop2747" />
+    </linearGradient>
+    <linearGradient
+       y2="-1029.3785"
+       x2="45.000004"
+       y1="-1029.3732"
+       x1="3.0649438"
+       gradientTransform="matrix(0.92760452,0,0,0.92760452,1.7700057,929.87979)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4437"
+       xlink:href="#linearGradient2743"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.9497475"
+     inkscape:cx="26.224222"
+     inkscape:cy="31.408294"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4502" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4444">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       transform="scale(1,-1)"
+       ry="0"
+       y="-43.512215"
+       x="4.5528178"
+       height="38.959396"
+       width="38.959396"
+       id="rect2728"
+       style="fill:url(#linearGradient4437);fill-opacity:1;stroke:#e8d2b2;stroke-width:0.97557104;stroke-opacity:1" />
+    <g
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;font-family:Pistara;-inkscape-font-specification:Pistara Medium"
+       id="text3624">
+      <path
+         d="m 11.574636,16.195807 0,-9.0000005 -0.48,0.828 0,8.1720005 0.48,0"
+         style=""
+         id="path3001" />
+    </g>
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12px;line-height:125%;font-family:Pistara;-inkscape-font-specification:'Pistara Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none"
+       id="text3628"
+       transform="translate(-1.2857143,-0.5)">
+      <path
+         d="m 23.137134,10.102807 c 0.096,-1.2119993 1.092001,-2.0520005 2.196,-2.0520005 1.223999,0 2.232,1.0320012 2.232,2.2200005 0,0.527999 -0.192001,1.044 -0.564,1.464 l -4.14,4.692 0,0.144 5.196,0 0,-0.48 -4.272,0 3.576,-4.032 c 0.467999,-0.516 0.684,-1.152001 0.684,-1.788 0,-1.4399991 -1.224002,-2.7000005 -2.7,-2.7000005 -1.295999,0 -2.532,1.0080014 -2.688,2.4 l 0.48,0.1320005"
+         id="path3004"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12px;line-height:125%;font-family:Pistara;-inkscape-font-specification:'Pistara Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none"
+       id="text3632"
+       transform="translate(-1.0714286,-0.6428571)">
+      <path
+         d="m 23.628634,28.382307 c -0.396,-0.276 -0.696,-0.660001 -0.852,-1.128 l -0.432,0.204 c 0.383999,1.067998 1.404001,1.8 2.532,1.8 1.619998,0 2.94,-1.320002 2.94,-2.94 0,-1.619999 -1.320002,-2.94 -2.94,-2.94 -0.576,0 -1.116001,0.18 -1.632,0.552 l 0.012,-3.192 3.948,0 0,-0.48 -4.44,0 0,4.644 0.192,0.036 c 0.324,-0.576 1.140001,-1.044001 1.92,-1.08 1.355999,0 2.46,1.104001 2.46,2.46 0,1.355998 -1.104001,2.46 -2.46,2.46 -0.432,0 -0.876001,-0.156001 -1.248,-0.396"
+         id="path3010"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;font-family:Pistara;-inkscape-font-specification:Pistara Medium"
+       id="text3636">
+      <path
+         d="m 8.7821358,33.363308 5.4960002,0 -4.4040002,8.52 0.5280002,0 4.656,-9 -6.2760002,0 0,0.48"
+         style=""
+         id="path3007" />
+    </g>
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12px;line-height:125%;font-family:Pistara;-inkscape-font-specification:'Pistara Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none"
+       id="text3640"
+       transform="translate(-2.2142857,-0.64285714)">
+      <path
+         d="m 40.833636,37.479308 c 0.347999,-0.515999 0.516,-1.068 0.516,-1.644 0,-1.499998 -1.224002,-2.94 -2.916,-2.94 -1.487999,0 -2.964,1.200002 -2.964,2.928 0,1.487999 1.260001,2.952 2.928,2.952 0.383999,0 0.756,-0.084 1.128,-0.24 l -2.292,3.348 0.6,0 3,-4.404 m -0.384,-0.264 c -0.516,0.72 -1.284001,1.068 -2.052,1.068 -1.415999,0 -2.436,-1.212001 -2.436,-2.46 0,-1.439998 1.212001,-2.46 2.448,-2.46 1.403998,0 2.46,1.212002 2.46,2.472 0,0.48 -0.132001,0.960001 -0.42,1.38"
+         id="path3013"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="fill:#e4ceb6;fill-opacity:1"
+       d="m 18.056897,4.0809102 0,14.0850998 -14.0842191,0 0,0.3563 14.0842191,0 0,11.0525 -14.0842191,0 0,0.3563 14.0842191,0 0,14.0847 0.356564,0 0,-14.0847 11.05342,0 0,14.0847 0.35657,0 0,-14.0847 14.084204,0 0,-0.3563 -14.084204,0 0,-11.0525 14.084204,0 0,-0.3563 -14.084204,0 0,-14.0850998 -0.35657,0 0,14.0850998 -11.05342,0 0,-14.0850998 -0.356564,0 z m 0.356564,14.4426998 11.05342,0 0,11.0525 -11.05342,0 -4e-6,-11.0525 z"
+       id="rect2771"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.35;fill:#000000;fill-opacity:1;stroke:none"
+       d="M 4.000004,43.9997 44,44 C 24.000003,43 24.000003,43 4.0000026,44 z"
+       id="path3800"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path3804"
+       d="M 4.0000075,3.9999 44,3.9997 c -19.999993,1 -19.999993,1 -39.9999939,0 z"
+       style="opacity:0.75;fill:#ffffff;fill-opacity:1;stroke:none" />
+  </g>
+</svg>
