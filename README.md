@@ -1,6 +1,4 @@
-## Emerald
-=========
-Fresh and simple personality icon theme
-=========
+# Emerald
+  Fresh and simple personality icon theme
 ## Preview
-![emerald](../Preview.jpg?raw=true)
+![emerald](../Preview.jpg)
