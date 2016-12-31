@@ -16,7 +16,19 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="blinken.svg">
   <defs
-     id="defs429" />
+     id="defs429">
+    <linearGradient
+       id="linearGradient3406">
+      <stop
+         style="stop-color:#0288d1;stop-opacity:1"
+         offset="0"
+         id="stop3408" />
+      <stop
+         style="stop-color:#29b6f6;stop-opacity:1"
+         offset="1"
+         id="stop3410" />
+    </linearGradient>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -26,17 +38,27 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="723"
-     inkscape:window-height="480"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
      id="namedview427"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="25.423729"
-     inkscape:cy="24"
+     inkscape:zoom="6.9532167"
+     inkscape:cx="46.253665"
+     inkscape:cy="34.018337"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2817" />
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2817"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true" />
   <metadata
      id="metadata57">
     <rdf:RDF>
@@ -49,6 +71,42 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <path
+     id="rect4203"
+     d="M 24,4 4.0000033,4.0000519 4,24 24,24 Z"
+     inkscape:connector-curvature="0"
+     style="fill:#e7a73c"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="path4556"
+     d="M 24,4 44,3.9998517 44,24 24,24 Z"
+     inkscape:connector-curvature="0"
+     style="fill:#e74c3c"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="path4564"
+     d="M 24,44 44,44.00015 44,24 24,24 Z"
+     inkscape:connector-curvature="0"
+     style="fill:#5dc15c"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="path4566"
+     d="M 24,44 3.9999993,43.999849 4,24 24,24 Z"
+     inkscape:connector-curvature="0"
+     style="fill:#3c88e7"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     sodipodi:nodetypes="cccc"
+     inkscape:connector-curvature="0"
+     id="path3223"
+     d="M 3.9999993,43.999849 44,44.00015 c -20,-0.999999 -20,-0.999999 -40.0000017,0 z"
+     style="opacity:0.35;fill:#000000;fill-opacity:1;stroke:none" />
+  <path
+     style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none"
+     d="M 4.0000033,4.0000519 44,3.9998517 c -19.999996,1.0000006 -19.999996,1.0000006 -39.9999977,0 z"
+     id="path3225"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
   <text
      id="text4087-2-6-5"
      opacity=".8"
@@ -2534,29 +2592,16 @@
        y="-1449.4517"
        x="1621.2083" /></text>
   <path
-     id="rect4203"
-     d="m24 4c-11.08 0-20 8.92-20 20h20z"
-     fill="#e7a73c" />
-  <path
-     id="path4556"
-     d="m24 4c11.08 0 20 8.92 20 20h-20z"
-     fill="#e74c3c" />
-  <path
-     id="path4564"
-     d="m24 44c11.08 0 20-8.92 20-20h-20z"
-     fill="#5dc15c" />
-  <path
-     id="path4566"
-     d="m24 44c-11.08 0-20-8.92-20-20h20z"
-     fill="#3c88e7" />
-  <path
-     id="rect4683"
-     opacity=".3"
-     d="m4.0117 23.5c-0.0041 0.167-0.0117 0.332-0.0117 0.5 0 11.08 8.92 20 20 20s20-8.92 20-20c0-0.168-0.008-0.333-0.012-0.5-0.264 10.846-9.076 19.5-19.988 19.5s-19.724-8.654-19.988-19.5z" />
-  <circle
      id="path4181"
-     cx="24"
-     cy="24"
+     fill="#2e2e2e"
      r="9"
-     fill="#2e2e2e" />
+     cy="24"
+     cx="24" />
+  <rect
+     style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-opacity:1"
+     id="rect3562"
+     width="16.399511"
+     height="17.120367"
+     x="15.800244"
+     y="15.439816" />
 </svg>

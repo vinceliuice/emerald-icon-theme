@@ -11,8 +11,8 @@
    viewBox="0 0 64 64"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="steam.svg"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="authors.svg"
    width="64"
    height="64">
   <metadata
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,16 +36,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
      id="namedview82"
      showgrid="true"
      inkscape:showpageshadow="false"
      inkscape:zoom="4.0000001"
-     inkscape:cx="0.81098192"
-     inkscape:cy="51.093459"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:cx="11.292961"
+     inkscape:cy="34.702804"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      showguides="true">
@@ -469,15 +469,12 @@
      id="path4320"
      d="M 26,61 40,47 40,61 Z"
      style="opacity:0.2;fill:url(#linearGradient4427);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-  <text
-     xml:space="preserve"
-     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Pistara;-inkscape-font-specification:Pistara Medium"
-     x="22"
-     y="46"
-     id="text3057"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan3059"
-       x="22"
-       y="46">R</tspan></text>
+  <g
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:32.57143021px;line-height:125%;font-family:Pistara;-inkscape-font-specification:'Pistara Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+     id="text3057">
+    <path
+       d="m 33.581537,33.809392 c 4.625143,-0.488572 7.100572,-3.061715 7.100572,-7.328572 0,-3.029143 -1.270286,-5.309143 -3.615429,-6.579429 -1.498286,-0.814286 -3.582857,-1.172571 -6.742286,-1.172571 l -5.960572,0 0,24.070287 2.410286,0 0,-21.888002 3.387429,0 c 2.540571,0 4.234286,0.260572 5.537143,0.879429 1.628571,0.781714 2.540571,2.410286 2.540571,4.592572 0,2.736 -1.237714,4.429714 -3.648,5.081143 -1.14,0.293143 -2.703429,0.423428 -5.374286,0.423428 l 8.110286,10.91143 2.996572,0 -6.742286,-8.989715 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L'"
+       id="path3214" />
+  </g>
 </svg>

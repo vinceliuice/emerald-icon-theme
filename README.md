@@ -1,6 +1,8 @@
 ## Emerald
     Fresh and simple personality icon theme
 
+This theme is based on Breeze icon theme.
+
 ## Install Or Uninstall
 Run
 

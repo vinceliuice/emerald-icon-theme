@@ -14,8 +14,8 @@
    height="48"
    id="svg5453"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="preferences-system.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="unity-tweak-tool.svg">
   <defs
      id="defs5455">
     <linearGradient
@@ -48,7 +48,7 @@
        x1="409.57144"
        y1="543.79797"
        x2="409.57144"
-       y2="503.798"
+       y2="482.798"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-1.7372437e-5,0)" />
     <linearGradient
@@ -69,8 +69,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568545"
-     inkscape:cx="15.420878"
-     inkscape:cy="39.366789"
+     inkscape:cx="26.393633"
+     inkscape:cy="11.513995"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -78,10 +78,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -158,7 +158,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -168,7 +168,7 @@
      id="layer1"
      transform="translate(-384.57143,-499.798)">
     <rect
-       style="opacity:1;fill:url(#linearGradient4165);fill-opacity:1.0;stroke:none"
+       style="opacity:1;fill:url(#linearGradient4165);fill-opacity:1;stroke:none"
        id="rect4146"
        width="40.000011"
        height="39.999969"

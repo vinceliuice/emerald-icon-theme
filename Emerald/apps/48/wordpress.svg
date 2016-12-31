@@ -13,8 +13,8 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="2EF4_wordpad.0.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="chrome-khjnjifipfkgglficmipimgjpbmlbemd-Default.svg">
   <metadata
      id="metadata270">
     <rdf:RDF>
@@ -37,16 +37,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="673"
+     inkscape:window-height="705"
      id="namedview268"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:zoom="7.3656956"
-     inkscape:cx="46.944786"
+     inkscape:cx="26.444346"
      inkscape:cy="17.001831"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -108,12 +108,13 @@
      ry="0"
      transform="scale(1,-1)" />
   <g
-     style="font-size:7.52592373px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:none;font-family:'方正细黑一_GBK';-inkscape-font-specification:'方正细黑一_GBK'"
-     id="text3001">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.52592373px;line-height:125%;font-family:'方正细黑一_GBK';-inkscape-font-specification:'方正细黑一_GBK';letter-spacing:0px;word-spacing:0px;opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:none"
+     id="text3001"
+     transform="translate(0,0.32521707)">
     <path
-       d="m 6.6722775,4.2285568 -1.5581014,4.9388874 -0.6761572,0 -1.4111107,-5.4386558 0.4997684,0 1.26412,4.9388875 0.029398,0 1.5874996,-4.9388875 0.5879627,0 1.6462959,4.9388875 0.029398,0 1.26412,-4.9388875 0.47037,0 -1.4405086,5.4386558 -0.6761572,0 -1.5874995,-4.9388874 -0.029398,0"
-       style=""
-       id="path2996" />
+       d="m 6.6722775,4.2285568 -1.5581014,4.9388874 -0.6761572,0 -1.4111107,-5.4386558 0.4997684,0 1.26412,4.9388875 0.029398,0 1.5874996,-4.9388875 0.5879627,0 1.6462959,4.9388875 0.029398,0 1.26412,-4.9388875 0.4703702,0 -1.4405088,5.4386558 -0.6761572,0 -1.5874995,-4.9388874 -0.029398,0"
+       id="path2996"
+       inkscape:connector-curvature="0" />
   </g>
   <path
      style="opacity:0.35;fill:#000000;fill-opacity:1;stroke:none"

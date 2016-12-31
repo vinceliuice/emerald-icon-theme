@@ -14,18 +14,18 @@
    height="48"
    id="svg4230"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="truecrypt.svg">
   <defs
      id="defs4232">
     <linearGradient
        id="linearGradient3764">
       <stop
-         style="stop-color:#f2f2f2;stop-opacity:1;"
+         style="stop-color:#cccccc;stop-opacity:1"
          offset="0"
          id="stop3766" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#ececec;stop-opacity:1"
          offset="1"
          id="stop3768" />
     </linearGradient>
@@ -68,18 +68,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.2413106"
-     inkscape:cx="50.208944"
-     inkscape:cy="25.825493"
+     inkscape:zoom="3.7061663"
+     inkscape:cx="2.3116846"
+     inkscape:cy="22.625522"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="744"
+     inkscape:window-height="705"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="28"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"

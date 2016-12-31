@@ -14,8 +14,8 @@
    height="48"
    id="svg5453"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="10B4_steam.0.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="steam.svg">
   <defs
      id="defs5455">
     <linearGradient
@@ -63,11 +63,11 @@
     <linearGradient
        id="linearGradient4159">
       <stop
-         style="stop-color:#52565c;stop-opacity:1;"
+         style="stop-color:#1a1a1a;stop-opacity:1"
          offset="0"
          id="stop4161" />
       <stop
-         style="stop-color:#78828c;stop-opacity:1;"
+         style="stop-color:#333333;stop-opacity:1"
          offset="1"
          id="stop4163" />
     </linearGradient>
@@ -89,8 +89,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.9999996"
-     inkscape:cx="33.441333"
-     inkscape:cy="24.952143"
+     inkscape:cx="22.606471"
+     inkscape:cy="25.246452"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -98,10 +98,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"

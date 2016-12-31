@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 48 48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ballerburg.svg">
+  <metadata
+     id="metadata50">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="686"
+     inkscape:window-height="485"
+     id="namedview48"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="347"
+     inkscape:window-y="77"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4736"
+       y1="24"
+       x2="0"
+       y2="19"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:#484848;stop-opacity:1"
+         id="stop12" />
+      <stop
+         offset="0.494"
+         style="stop-color:#505050;stop-opacity:1"
+         id="stop14" />
+      <stop
+         offset="1"
+         style="stop-color:#484848;stop-opacity:1"
+         id="stop16" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3859"
+       id="linearGradient3739"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.83333307,0,0,0.83333307,-317.03371,412.80361)"
+       x1="379.57144"
+       y1="-527.79797"
+       x2="431.57144"
+       y2="-527.79797" />
+    <linearGradient
+       id="linearGradient3859">
+      <stop
+         id="stop3861"
+         offset="0"
+         style="stop-color:#cccccc;stop-opacity:1" />
+      <stop
+         id="stop3863"
+         offset="1"
+         style="stop-color:#ececec;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g3665"
+     transform="translate(0.55761199,0.30529681)">
+    <rect
+       transform="scale(1,-1)"
+       ry="0"
+       y="-43.694542"
+       x="3.4424012"
+       height="39.999989"
+       width="39.999989"
+       id="rect3667"
+       style="fill:url(#linearGradient3739);fill-opacity:1;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path3669"
+       d="m 3.4423873,43.694552 40.0000007,3.01e-4 c -20,-0.999999 -20,-0.999999 -40.0000017,0 z"
+       style="opacity:0.35;fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="M 3.4423913,3.6947551 43.442388,3.6945549 c -19.999996,1.0000006 -19.999996,1.0000006 -39.9999977,0 z"
+       id="path3671"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     transform="translate(1,1)"
+     id="g34">
+    <path
+       d="m 12.533 19 c -0.295 0 -0.533 0.223 -0.533 0.5 l 0 4 c 0 0.277 0.238 0.5 0.533 0.5 l 6.645 0 a 5 5 0 0 0 -0.678 2.5 a 5 5 0 0 0 5 5 5 5 0 0 0 4.971 -4.5 l 3.529 0 l 6 4.5 0 -2 -6 -5.5 -2 0 c 1.063 0 1.918 -0.772 1.986 -1.752 a 0.75 0.75 0 0 0 0.713 -0.748 0.75 0.75 0 0 0 -0.713 -0.748 c -0.068 -0.98 -0.923 -1.752 -1.986 -1.752 l -17.467 0 m 7.467 5.582 0 1.418 -0.465 0 a 4 4 0 0 1 0.465 -1.418 m -0.463 2.418 0.463 0 l 2.293 0 -1.951 1.951 a 4 4 0 0 1 -0.805 -1.951 m 5.17 0 2.758 0 a 4 4 0 0 1 -0.809 1.949 l -1.949 -1.949 m -1.707 0.707 0 2.758 a 4 4 0 0 1 -1.949 -0.809 l 1.949 -1.949 m 1 0 1.951 1.951 a 4 4 0 0 1 -1.951 0.805 l 0 -2.756 z"
+       style="fill:#000;fill-opacity:0.098;stroke:none;fill-rule:evenodd"
+       id="path36" />
+    <path
+       d="m 12.533 19 c -0.295 0 -0.533 0.223 -0.533 0.5 l 0 4 c 0 0.277 0.238 0.5 0.533 0.5 l 17.467 0 c 1.063 0 1.918 -0.772 1.986 -1.752 a 0.75 0.75 0 0 0 0.713 -0.748 0.75 0.75 0 0 0 -0.713 -0.748 c -0.068 -0.98 -0.923 -1.752 -1.986 -1.752 l -17.467 0 z"
+       transform="translate(-1,-1)"
+       style="fill:url(#linearGradient4736);fill-opacity:1;stroke:none;fill-rule:evenodd"
+       id="path38" />
+    <path
+       d="m 19 23 0 3 12 0 6 4.5 0 -2 -6 -5.5 z"
+       style="fill:#505050;fill-opacity:1;stroke:none"
+       id="path40" />
+    <path
+       d="M 24.5 22.5 A 5 5 0 0 0 20 25.332 L 20 27 20.535 27 A 4 4 0 0 1 21.344 25.05 L 23.293 27 l 2.414 0 1.951 -1.951 A 4 4 0 0 1 28.463 27 l 1.012 0 A 5 5 0 0 0 24.5 22.5 m 0.5 1.035 a 4 4 0 0 1 1.949 0.809 L 25 26.293 25 23.535 m -1 0.002 0 2.756 -1.951 -1.951 A 4 4 0 0 1 24 23.537"
+       transform="translate(-1,-1)"
+       style="fill:#000;fill-opacity:0.098;stroke:none"
+       id="path42" />
+    <path
+       d="m 22.5 20.5 a 5 5 0 0 0 -5 5 5 5 0 0 0 5 5 5 5 0 0 0 5 -5 5 5 0 0 0 -5 -5 z m 0.5 1.035 a 4 4 0 0 1 1.949 0.809 L 23 24.293 23 21.535 m -1 0.002 0 2.756 -1.951 -1.951 A 4 4 0 0 1 22 21.537 m 3.658 1.512 A 4 4 0 0 1 26.463 25 l -2.756 0 1.951 -1.951 z m -6.314 0.002 1.949 1.949 -2.758 0 A 4 4 0 0 1 19.344 23.05 M 18.537 26 l 2.756 0 -1.951 1.951 A 4 4 0 0 1 18.537 26 m 5.17 0 2.758 0 A 4 4 0 0 1 25.656 27.949 L 23.707 26 M 22 26.707 22 29.465 A 4 4 0 0 1 20.05 28.656 L 22 26.707 m 1 0 1.951 1.951 A 4 4 0 0 1 23 29.463 l 0 -2.756 z"
+       style="fill:#7a7a7a;fill-opacity:1;stroke:none"
+       id="path44" />
+    <circle
+       r="1"
+       cy="25.5"
+       cx="22.5"
+       style="fill:#484848;fill-opacity:1;stroke:none"
+       id="circle46" />
+  </g>
+</svg>

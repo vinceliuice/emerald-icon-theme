@@ -15,7 +15,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="folder-images.svg">
+   sodipodi:docname="folder-pictures.svg">
   <defs
      id="defs5455">
     <linearGradient
@@ -92,9 +92,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="16.526693"
-     inkscape:cy="28.190325"
+     inkscape:zoom="3.9999998"
+     inkscape:cx="23.565983"
+     inkscape:cy="31.553343"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -224,11 +224,6 @@
        id="path4222"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
-    <path
-       style="fill:#ffffff;fill-opacity:0.23529412;fill-rule:evenodd;stroke:none"
-       d="m 452.57143,483.798 0,1 16.99999,0 2,-5 -3,4 z"
-       id="path4224"
-       inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"

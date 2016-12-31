@@ -14,7 +14,7 @@
    height="64"
    id="svg5453"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="folder-publicshare.svg">
   <defs
      id="defs5455">
@@ -92,9 +92,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="44.953877"
-     inkscape:cy="31.461009"
+     inkscape:zoom="3.9999998"
+     inkscape:cx="29.209204"
+     inkscape:cy="28.209826"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -103,9 +103,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="744"
+     inkscape:window-height="705"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -224,11 +224,6 @@
        id="path4222"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
-    <path
-       style="fill:#ffffff;fill-opacity:0.23529412;fill-rule:evenodd;stroke:none"
-       d="m 452.57143,483.798 0,1 16.99999,0 2,-5 -3,4 z"
-       id="path4224"
-       inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
