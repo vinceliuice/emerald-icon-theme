@@ -3,6 +3,7 @@
 
 ## Install Or Uninstall
 Run
+
     ./Emerald-installer.sh
 
 Or double-click to open that script files and select "run at the terminal" at nautilus.
