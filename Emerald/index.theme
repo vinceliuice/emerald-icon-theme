@@ -170,14 +170,14 @@ MaxSize=24
 Size=32
 Context=MimeTypes
 Type=Scalable
-MinSize=32
+MinSize=16
 MaxSize=48
 
 [mimetypes/64]
 Size=64
 Context=MimeTypes
 Type=Scalable
-MinSize=32
+MinSize=16
 MaxSize=256
 
 [places/symbolic]

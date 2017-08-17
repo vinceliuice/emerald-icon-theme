@@ -175,7 +175,7 @@ else
 fi
 
 echo -e "\e[1m\n+----------------------------------------------+"
-echo -e "|      Emerald con Theme Installer Script       |"
+echo -e "|     Emerald Icon Theme Installer Script      |"
 echo -e "+----------------------------------------------+\n\e[0m"
 
 main
