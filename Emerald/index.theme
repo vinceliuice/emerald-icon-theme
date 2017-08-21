@@ -157,7 +157,6 @@ Type=Fixed
 Size=16
 Context=MimeTypes
 Type=Fixed
-MinSize=16
 
 [mimetypes/22]
 Size=22
@@ -170,14 +169,14 @@ MaxSize=24
 Size=32
 Context=MimeTypes
 Type=Scalable
-MinSize=16
+MinSize=32
 MaxSize=48
 
 [mimetypes/64]
 Size=64
 Context=MimeTypes
 Type=Scalable
-MinSize=16
+MinSize=64
 MaxSize=256
 
 [places/symbolic]
@@ -234,3 +233,7 @@ Type=Fixed
 Context=Status
 Size=16
 Type=Scalable
+MinSize=8
+MaxSize=256
+
+
