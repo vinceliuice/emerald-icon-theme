@@ -176,7 +176,7 @@ MaxSize=48
 Size=64
 Context=MimeTypes
 Type=Scalable
-MinSize=64
+MinSize=16
 MaxSize=256
 
 [places/symbolic]
