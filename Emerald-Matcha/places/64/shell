@@ -1,0 +1,9 @@
+#!/bin/bash
+
+cd $(dirname $0) && pwd
+sed -i "s/31cba9/31cba9/g" `ls`
+sed -i "s/42eec4/42eec4/g" `ls`
+sed -i "s/3d8479/3d8479/g" `ls`
+sed -i "s/4aa393/4aa393/g" `ls`
+sed -i "s/347166/347166/g" `ls`
+sed -i "s/8fccc6/8fccc6/g" `ls`

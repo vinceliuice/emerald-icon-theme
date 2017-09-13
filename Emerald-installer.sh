@@ -52,12 +52,14 @@ themes() {
 
               (1)  Emerald
               (2)  Emerald-Dark
+              (3)  Emerald-Matcha
 
 +------------------------------------------------------------------+\n"
   read INPUT
   case $INPUT in
     [1]* )  Emerald;;
     [2]* )  Emerald-Dark;;
+    [3]* )  Emerald-Matcha;;
     * ) show_error "\nSorry, try again."; themes;;
   esac
 }
@@ -76,6 +78,15 @@ Emerald-Dark() {
 # Set Emerald-Dark Icon Theme
   echo "Setting Emerald-Dark..."
   gsettings set org.gnome.desktop.interface icon-theme Emerald-Dark
+  echo "Done!"
+
+}
+
+Emerald-Matcha() {
+
+# Set Emerald-Dark Icon Theme
+  echo "Setting Emerald-Matcha..."
+  gsettings set org.gnome.desktop.interface icon-theme Emerald-Matcha
   echo "Done!"
 
 }
@@ -108,11 +119,11 @@ install() {
   
   # Copying files
 
-  cp -a Emerald Emerald-Dark $DEST_DIR
+  cp -a Emerald* $DEST_DIR
 
   # update icon caches
 
-  update-icon-caches $DEST_DIR/Emerald $DEST_DIR/Emerald-Dark
+  update-icon-caches $DEST_DIR/Emerald*
 
   echo -e "\nInstallation complete!"
 
@@ -125,7 +136,7 @@ remove() {
   # PREVIEW
 
   # Show installation directory
-  if [[ -d $DEST_DIR/Emerald && -d $DEST_DIR/Emerald-Dark ]]; then
+  if [[ -d $DEST_DIR/Emerald ]]; then
     echo -e "\nEmerald Icon Theme installed in:\n"
     show_dir "\t$DEST_DIR"
     if [ "$UID" -eq "$ROOT_UID" ]; then
