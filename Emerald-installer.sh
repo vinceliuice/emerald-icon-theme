@@ -18,7 +18,7 @@ end() {
 }
 
 continue() {
-  show_question "\nDo you want to continue? (Y)es, (N)o : \n"
+  show_question "\nDo you want to continue? (y)es, (n)o : \n"
   read INPUT
   case $INPUT in
     [Yy]* ) ;;
@@ -28,7 +28,7 @@ continue() {
 }
 
 replace() {
-  show_question "\nFound an existing installation. Replace it? (Y)es, (N)o :\n" 
+  show_question "\nFound an existing installation. Replace it? (y)es, (n)o :\n" 
   read INPUT
   case $INPUT in
     [Yy]* ) rm -rf $DEST_DIR/Emerald*;;
@@ -38,7 +38,7 @@ replace() {
 }
 
 setup() {
-  show_question "\nDo you want to set the theme now? (Y)es, (N)o : \n"
+  show_question "\nDo you want to set the theme now? (y)es, (n)o : \n"
   read INPUT
   case $INPUT in
     [Yy]* ) themes;;
@@ -123,7 +123,7 @@ install() {
 
   # update icon caches
 
-  update-icon-caches $DEST_DIR/Emerald*
+  gtk-update-icon-caches $DEST_DIR/Emerald*
 
   echo -e "\nInstallation complete!"
 
@@ -166,7 +166,7 @@ remove() {
 }
 
 main() {
-  show_question "What you want to do: (I)nstall, (R)emove : \n"
+  show_question "What you want to do: (i)nstall, (r)emove : \n"
   read INPUT
   case $INPUT in
     [Ii]* ) install;;
