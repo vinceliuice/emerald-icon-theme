@@ -123,7 +123,7 @@ install() {
 
   # update icon caches
 
-  gtk-update-icon-caches $DEST_DIR/Emerald*
+  update-icon-caches $DEST_DIR/Emerald*
 
   echo -e "\nInstallation complete!"
 

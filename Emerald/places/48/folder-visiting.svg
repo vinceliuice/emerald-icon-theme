@@ -14,8 +14,8 @@
    height="48px"
    id="svg3010"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="新建文档 1">
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="folder-visiting.svg">
   <defs
      id="defs3012">
     <linearGradient
@@ -102,9 +102,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="71.539655"
-     inkscape:cy="42.609647"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="44.61896"
+     inkscape:cy="33.279993"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -126,7 +126,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -144,22 +144,6 @@
        d="M 0.85883624,2.7645482 22.376076,24.281791 l 0.827587,0.827584 24.000002,-13.856406 0,-5.1780755 -23.172414,0 -2.48276,-3.3103453 z"
        id="path4230"
        inkscape:connector-curvature="0" />
-    <rect
-       style="fill:#527081;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect3096"
-       width="44"
-       height="15"
-       x="2"
-       y="13"
-       ry="1.5680588" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="rect3096-6"
-       width="42"
-       height="15"
-       x="3"
-       y="14"
-       ry="1.5680588" />
     <path
        style="fill:url(#linearGradient4178);fill-opacity:1;stroke:none"
        d="m 15.755387,16.833414 -2.482758,2.482759 -13.24137073,0 -8.27e-6,0.965529 0.0016555,0 c -4.137e-5,0.0025 -0.0016555,0.0057 -0.0016555,0.0082 l 0,24.819583 0,0.689661 0.82758624,0 46.34482876,0 0.827585,0 0,-0.689661 0,-24.819583 0,-0.0083 0,-3.448288 z"

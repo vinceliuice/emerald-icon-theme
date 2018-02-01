@@ -24,25 +24,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254832"
-     inkscape:cx="11.414923"
-     inkscape:cy="11.271197"
+     inkscape:zoom="29.874774"
+     inkscape:cx="7.878187"
+     inkscape:cy="8.8967291"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1-8"
+     inkscape:current-layer="layer1"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1021"
-     inkscape:window-x="-4"
+     inkscape:window-width="1360"
+     inkscape:window-height="708"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
-     inkscape:snap-bbox="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-global="true">
+     inkscape:object-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid4132" />
@@ -59,7 +57,7 @@
        orientation="-18,0"
        id="guide4142" />
     <sodipodi:guide
-       position="13,20"
+       position="20,20.000017"
        orientation="0,-18"
        id="guide4144" />
     <sodipodi:guide
@@ -75,7 +73,7 @@
        orientation="-16,0"
        id="guide4150" />
     <sodipodi:guide
-       position="24.562501,19.000001"
+       position="19,19.000017"
        orientation="0,-16"
        id="guide4152" />
   </sodipodi:namedview>
@@ -87,7 +85,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -96,47 +94,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-326,-534.3622)">
-    <rect
-       style="fill:#04896a;fill-opacity:1;stroke:none"
-       id="rect4035"
-       width="0"
-       height="14.668059"
-       x="273.38181"
-       y="518.47876" />
-    <rect
-       style="fill:#16907d;fill-opacity:1;stroke:none"
-       id="rect4035-8"
-       width="0"
-       height="14.668059"
-       x="280.34238"
-       y="541.04938" />
-    <rect
-       style="fill:#6c7a89;fill-opacity:1;stroke:none"
-       id="rect4035-0"
-       width="0"
-       height="14.668059"
-       x="282.15567"
-       y="539.98865" />
-    <g
-       transform="translate(331.61181,-496.88303)"
-       id="layer1-5"
-       inkscape:label="Capa 1" />
-    <g
-       transform="translate(339.69934,-496.3748)"
-       id="layer1-8"
-       inkscape:label="Capa 1">
-      <g
-         transform="translate(-13.69934,0.3748)"
-         id="layer1-6"
-         inkscape:label="Capa 1"
-         style="fill:#04896a;fill-opacity:1">
-        <path
-           id="rect4136"
-           transform="translate(0,1030.3622)"
-           d="M 11,3 C 8.784,3 7,4.784 7,7 l 0,4 -2,0 0,1 0,7 1,0 10,0 1,0 0,-8 -1,0 -1,0 0,-4 C 15,4.784 13.216,3 11,3 Z m 0,1 c 1.662,0 3,1.561 3,3.5 L 14,11 8,11 8,7.5 C 8,5.561 9.338,4 11,4 Z m -5,8 10,0 0,6 -10,0 0,-6 z"
-           style="opacity:1;fill:#04896a;fill-opacity:1;stroke:none"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
+    <path
+       style="fill:#555555"
+       d="M 11 3 C 8.67319 3 6.92215 4.78537 7 7 L 7 11 L 4 11 L 4 19 L 18 19 L 18 11 L 15 11 L 15 7 C 15 4.784 13.3268 3 11 3 z M 11 4 C 12.74439 4 14 5.06133 14 7 L 14 11 L 8 11 L 8 7 C 8 5.06133 9.25559 4 11 4 z M 5 12 L 17 12 L 17 18 L 5 18 L 5 12 z "
+       transform="translate(326,534.3622)"
+       id="path4" />
   </g>
 </svg>
