@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48" version="1.1">
+ <defs>
+  <linearGradient id="linearGradient4393">
+   <stop style="stop-color:#000000;stop-opacity:1;" offset="0"/>
+   <stop style="stop-color:#000000;stop-opacity:0;" offset="1"/>
+  </linearGradient>
+  <linearGradient gradientTransform="matrix(1.3333334,0,0,1.1666668,-509.76184,-595.76433)" xlink:href="#linearGradient4298" id="linearGradient4308" y1="539.798" y2="527.798" x2="0" gradientUnits="userSpaceOnUse"/>
+  <linearGradient id="linearGradient4298">
+   <stop style="stop-color:#42a603"/>
+   <stop offset="1" style="stop-color:#78da06"/>
+  </linearGradient>
+  <linearGradient gradientTransform="matrix(1.2499988,0,0,1.2857117,4.0000276,3.4286038)" xlink:href="#linearGradient4393" id="linearGradient4256" y1="11" x1="5" y2="27" x2="21" gradientUnits="userSpaceOnUse"/>
+  <linearGradient id="linearGradient4643-8" xlink:href="#linearGradient4303-6" y1="543.798" y2="502.655" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.83333327,0,0,0.81666374,-316.47628,-404.50106)"/>
+  <linearGradient id="linearGradient4303-6">
+   <stop style="stop-color:#c6cdd1"/>
+   <stop offset="1" style="stop-color:#e0e5e7"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4183" xlink:href="#linearGradient4393" y1="525.798" y2="540.798" x1="391.571" gradientUnits="userSpaceOnUse" x2="406.571" gradientTransform="matrix(1.2499988,0,0,1.2857117,-476.71382,-659.73887)"/>
+ </defs>
+ <rect style="fill:url(#linearGradient4643-8)" height="36" rx="0" y="6" x="4" width="40"/>
+ <path d="m 6,40 36,-26 2,2 -3e-5,25.999963 L 8,42 Z" style="opacity:0.2;fill:url(#linearGradient4183);fill-rule:evenodd"/>
+ <rect style="fill:#99a1a7" height="1" y="41" x="4" width="40"/>
+ <rect style="fill:#566069" height="5" y="6" x="4" width="40"/>
+ <rect style="fill:#3daee9" height="1" y="11" x="4" width="40"/>
+ <rect style="fill:#ffffff" height="26" y="14" x="6" width="36"/>
+ <rect style="fill:#eff0f1" height="3" rx="1.5" y="7" x="39" width="3"/>
+ <path style="opacity:0.2;fill:url(#linearGradient4256);fill-rule:evenodd" d="m 31,27 -12,7 8,8 17,0 0,-2 z"/>
+ <path style="fill:url(#linearGradient4308);fill-rule:evenodd" d="m 19,20 0,14 12,-7 z"/>
+</svg>

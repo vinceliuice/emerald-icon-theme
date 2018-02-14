@@ -28,7 +28,7 @@ continue() {
 }
 
 replace() {
-  show_question "\nFound an existing installation. Replace it? (y)es, (n)o :\n" 
+  show_question "\nFound an existing installation. Replace it? (y)es, (n)o :\n"
   read INPUT
   case $INPUT in
     [Yy]* ) rm -rf $DEST_DIR/Emerald*;;
@@ -116,7 +116,7 @@ install() {
   fi
 
   echo -e "\nInstalling Emerald..."
-  
+
   # Copying files
 
   cp -a Emerald* $DEST_DIR
@@ -146,7 +146,7 @@ remove() {
     fi
 
     continue
-  
+
   else
     show_error "\nEmerald Icon Theme is not installed in:\n"
     show_dir "\t$DEST_DIR\n"
