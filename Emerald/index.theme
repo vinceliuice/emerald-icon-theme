@@ -245,7 +245,9 @@ MaxSize=256
 [status/64]
 Context=Status
 Size=64
-Type=Fixed
+Type=Scalable
+MinSize=16
+MaxSize=256
 
 [status/symbolic]
 Context=Status

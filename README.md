@@ -11,5 +11,5 @@ Run
 Or double-click to open that script files and select "run at the terminal" at nautilus.
 
 ## Preview
-![emerald](../master/Preview.jpg)
-![emerald](../master/Emerald.png)
+![emerald](../master/Preview1.jpg)
+![emerald](../master/Preview2.png)
