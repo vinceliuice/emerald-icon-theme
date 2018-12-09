@@ -77,14 +77,16 @@ Type=Fixed
 [apps/32]
 Size=32
 Context=Applications
-Type=Fixed
+Type=Scalable
+MinSize=16
+MaxSize=512
 
 [apps/48]
 Size=48
 Context=Applications
 Type=Scalable
 MinSize=16
-MaxSize=256
+MaxSize=512
 
 [categories/16]
 Size=16
@@ -106,7 +108,7 @@ Size=48
 Context=Categories
 Type=Scalable
 MinSize=16
-MaxSize=256
+MaxSize=512
 
 [devices/16]
 Size=16
@@ -188,7 +190,7 @@ Size=64
 Context=MimeTypes
 Type=Scalable
 MinSize=16
-MaxSize=256
+MaxSize=512
 
 [places/symbolic]
 Context=Places
@@ -218,7 +220,7 @@ Size=64
 Context=Places
 Type=Scalable
 MinSize=32
-MaxSize=256
+MaxSize=512
 
 [status/16]
 Context=Status
@@ -240,20 +242,18 @@ Size=48
 Context=Status
 Type=Scalable
 MinSize=16
-MaxSize=256
+MaxSize=512
 
 [status/64]
 Context=Status
 Size=64
 Type=Scalable
 MinSize=16
-MaxSize=256
+MaxSize=512
 
 [status/symbolic]
 Context=Status
 Size=16
 Type=Scalable
-MinSize=8
-MaxSize=256
-
-
+MinSize=16
+MaxSize=512
