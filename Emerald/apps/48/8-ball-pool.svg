@@ -14,7 +14,7 @@
    height="48"
    id="svg5453"
    version="1.1"
-   inkscape:version="0.91pre2 r13516"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="8-ball-pool.svg">
   <defs
      id="defs5455">
@@ -67,8 +67,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="12.212143"
-     inkscape:cx="28.054138"
-     inkscape:cy="23.534242"
+     inkscape:cx="23.000247"
+     inkscape:cy="18.425699"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -76,10 +76,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -109,25 +109,17 @@
      id="layer1"
      transform="translate(-384.57143,-499.798)">
     <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="circle4150"
-       cx="408.57144"
-       cy="524.70795"
-       r="20.090057" />
-    <circle
        r="20.090057"
        cy="523.79797"
        cx="408.57144"
        id="circle3365"
-       style="fill:#666666;fill-opacity:1;stroke:none"
-       d="m 428.6615,523.79797 a 20.090057,20.090057 0 0 1 -20.09006,20.09006 20.090057,20.090057 0 0 1 -20.09006,-20.09006 20.090057,20.090057 0 0 1 20.09006,-20.09005 20.090057,20.090057 0 0 1 20.09006,20.09005 z" />
+       style="fill:#666666;fill-opacity:1;stroke:none" />
     <circle
        style="fill:url(#linearGradient4179);fill-opacity:1;stroke:none"
        id="path5295"
        cx="408.57144"
        cy="523.79797"
-       r="18.000027"
-       d="m 426.57147,523.79797 a 18.000027,18.000027 0 0 1 -18.00003,18.00003 18.000027,18.000027 0 0 1 -18.00003,-18.00003 18.000027,18.000027 0 0 1 18.00003,-18.00002 18.000027,18.000027 0 0 1 18.00003,18.00002 z" />
+       r="18.000027" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect6820"

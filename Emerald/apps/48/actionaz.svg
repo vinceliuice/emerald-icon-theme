@@ -11,8 +11,8 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="actiona.svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="actionaz.svg">
   <metadata
      id="metadata39">
     <rdf:RDF>
@@ -33,16 +33,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="776"
-     inkscape:window-height="485"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
      id="namedview37"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="33.152542"
-     inkscape:cy="24"
-     inkscape:window-x="449"
-     inkscape:window-y="136"
-     inkscape:window-maximized="0"
+     inkscape:zoom="19.666667"
+     inkscape:cx="23.982677"
+     inkscape:cy="-0.36063534"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
      id="defs4">
@@ -101,10 +101,6 @@
      id="g27">
     <g
        id="g29">
-      <path
-         d="m 15.889 -13.909 c -2.071 0 -3.738 -1.909 -3.738 -4.28 l 0 -12.839 c 0 -2.266 1.528 -4.089 3.47 -4.248 l -2.536 -6.451 4.206 0 2.382 6.42 7.386 0 2.382 -6.42 4.206 0 -2.536 6.451 c 1.943 0.159 3.47 1.983 3.47 4.248 l 0 12.839 c 0 2.371 -1.667 4.28 -3.738 4.28 l -2.804 0 0 -4.28 1.869 0 c 0.518 0 0.935 -0.477 0.935 -1.07 l 0 -10.699 c 0 -0.593 -0.417 -1.07 -0.935 -1.07 l -0.467 0 -4.206 10.699 -3.738 0 -4.206 -10.699 -0.467 0 c -0.518 0 -0.935 0.477 -0.935 1.07 l 0 10.699 c 0 0.593 0.417 1.07 0.935 1.07 l 1.869 0 0 4.28 -2.804 0 z m 7.477 -11.448 2.105 -5.672 -4.209 0 2.105 5.672 z"
-         style="stroke-opacity:1;opacity:0.1;fill-opacity:1;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1"
-         id="path31" />
       <path
          transform="scale(0.93462338,-1.0699497)"
          d="m 16 12 c -2.216 0 -4 1.784 -4 4 l 0 12 c 0 2.216 1.784 4 4 4 l 16 0 c 2.216 0 4 -1.784 4 -4 l 0 -12 c 0 -2.216 -1.784 -4 -4 -4 l -3 0 0 4 c 0.667 0 1.333 0 2 0 0.554 0 1 0.446 1 1 0 3.333 0 6.667 0 10 0 0.554 -0.446 1 -1 1 -4.667 0 -9.333 0 -14 0 -0.554 0 -1 -0.446 -1 -1 0 -3.333 0 -6.667 0 -10 0 -0.554 0.446 -1 1 -1 0.667 0 1.333 0 2 0 l 0 -4 z"
