@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -10,703 +8,3885 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
    height="48"
-   id="svg2"
+   width="48"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="firefox (复件).svg">
-  <defs
-     id="defs4">
-    <linearGradient
-       id="linearGradient14189">
-      <stop
-         style="stop-color:#c85813;stop-opacity:1"
-         offset="0"
-         id="stop14191" />
-      <stop
-         style="stop-color:#f4b81c;stop-opacity:1"
-         offset="1"
-         id="stop14193" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient11867"
-       inkscape:collect="always">
-      <stop
-         id="stop11869"
-         offset="0"
-         style="stop-color:#ad250f;stop-opacity:1" />
-      <stop
-         id="stop11871"
-         offset="1"
-         style="stop-color:#f4b81c;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient9785">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop9787" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop9789" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient9740">
-      <stop
-         style="stop-color:#ad250f;stop-opacity:1;"
-         offset="0"
-         id="stop9742" />
-      <stop
-         style="stop-color:#ad250f;stop-opacity:0;"
-         offset="1"
-         id="stop9744" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient9692">
-      <stop
-         style="stop-color:#af280e;stop-opacity:1"
-         offset="0"
-         id="stop9694" />
-      <stop
-         style="stop-color:#f4b81c;stop-opacity:1"
-         offset="1"
-         id="stop9696" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient9655">
-      <stop
-         style="stop-color:#df8e18;stop-opacity:1"
-         offset="0"
-         id="stop9657" />
-      <stop
-         style="stop-color:#f5b91d;stop-opacity:1"
-         offset="1"
-         id="stop9659" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient9642">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop9644" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop9646" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient9601">
-      <stop
-         style="stop-color:#bc4d10;stop-opacity:1"
-         offset="0"
-         id="stop9603" />
-      <stop
-         style="stop-color:#d7910d;stop-opacity:1"
-         offset="1"
-         id="stop9605" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient9589"
-       inkscape:collect="always">
-      <stop
-         id="stop9591"
-         offset="0"
-         style="stop-color:#c95210;stop-opacity:1" />
-      <stop
-         id="stop9593"
-         offset="1"
-         style="stop-color:#fac11f;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient9573">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop9575" />
-      <stop
-         style="stop-color:#333333;stop-opacity:1"
-         offset="1"
-         id="stop9577" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient9536">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop9538" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop9540" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient9524">
-      <stop
-         style="stop-color:#b83112;stop-opacity:1"
-         offset="0"
-         id="stop9526" />
-      <stop
-         style="stop-color:#e59b1e;stop-opacity:1"
-         offset="1"
-         id="stop9528" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient9506"
-       inkscape:collect="always">
-      <stop
-         id="stop9508"
-         offset="0"
-         style="stop-color:#b22c0e;stop-opacity:1" />
-      <stop
-         id="stop9512"
-         offset="1"
-         style="stop-color:#ebad34;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient859">
-      <stop
-         style="stop-color:#005a81;stop-opacity:1;"
-         offset="0"
-         id="stop861" />
-      <stop
-         style="stop-color:#57acdd;stop-opacity:1;"
-         offset="1"
-         id="stop863" />
-    </linearGradient>
-    <style
-       id="style874"
-       type="text/css">
-    .fil0 {fill:#1F1A17}
-   </style>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient859"
-       id="linearGradient865"
-       x1="-19.312702"
-       y1="-1064.4777"
-       x2="-19.312702"
-       y2="-1016.2559"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.83532695,0,0,0.83549193,41.818725,-159.37885)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9506"
-       id="linearGradient9502"
-       x1="21.125"
-       y1="16.75"
-       x2="-0.125"
-       y2="47.875"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.83532695,0,0,0.83549193,3.9159048,1008.3623)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9524"
-       id="linearGradient9530"
-       x1="0.96787088"
-       y1="19.3125"
-       x2="7.125"
-       y2="19.3125"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.83532695,0,0,0.83549193,3.9159048,1008.3623)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9536"
-       id="linearGradient9542"
-       x1="18.90625"
-       y1="16.0625"
-       x2="15.71218"
-       y2="21.594791"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.83532695,0,0,0.83549193,3.9159048,1008.3623)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9573"
-       id="linearGradient9579"
-       x1="22.625"
-       y1="24.015625"
-       x2="22.625"
-       y2="26.328125"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.83532695,0,0,0.83549193,3.8963269,1008.3655)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9589"
-       id="linearGradient9587"
-       x1="16.017658"
-       y1="25.828125"
-       x2="22.84375"
-       y2="25.828125"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.83532695,0,0,0.83549193,3.8974465,1008.3623)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9601"
-       id="linearGradient9607"
-       x1="16.46875"
-       y1="27.953125"
-       x2="22.84375"
-       y2="27.953125"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.83532695,0,0,0.83549193,3.8882173,1008.3623)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9642"
-       id="linearGradient9648"
-       x1="20.85965"
-       y1="27.14035"
-       x2="16.652224"
-       y2="28.267727"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.83532695,0,0,0.83549193,3.9159048,1008.3623)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9655"
-       id="linearGradient9661"
-       x1="14.1875"
-       y1="38.192175"
-       x2="28.21875"
-       y2="38.192175"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.83532695,0,0,0.83549193,3.9159048,1008.3623)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9692"
-       id="linearGradient9698"
-       x1="14.183602"
-       y1="40.125"
-       x2="28.75"
-       y2="40.125"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.83532695,0,0,0.83549193,3.9159048,1008.3623)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9740"
-       id="linearGradient9738"
-       x1="14.009553"
-       y1="39.956661"
-       x2="27.267805"
-       y2="39.956661"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.83532695,0,0,0.83549193,3.9159048,1008.3623)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9740"
-       id="linearGradient9768"
-       x1="16.435604"
-       y1="26.511896"
-       x2="20.964252"
-       y2="26.511896"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.83532695,0,0,0.83549193,3.9159048,1008.3623)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9785"
-       id="linearGradient9791"
-       x1="4.7066793"
-       y1="23.405943"
-       x2="4.7066793"
-       y2="15.627768"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.83532695,0,0,0.83549193,3.9159048,1008.3623)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9506"
-       id="linearGradient9851"
-       x1="47.75"
-       y1="13"
-       x2="32"
-       y2="46.375"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="XMLID_116_"
-       gradientUnits="userSpaceOnUse"
-       x1="-172.72121"
-       y1="332.082"
-       x2="-161.4561"
-       y2="309.89331"
-       gradientTransform="matrix(0.24342297,-0.05696976,0.05696976,0.24342297,66.49598,-52.271782)">
-      <stop
-         offset="0"
-         style="stop-color:#F79A09"
-         id="stop546" />
-      <stop
-         offset="0.736"
-         style="stop-color:#FEFD00"
-         id="stop548" />
-      <stop
-         offset="0.7783"
-         style="stop-color:#FEFE26"
-         id="stop550" />
-      <stop
-         offset="0.8369"
-         style="stop-color:#FFFE54"
-         id="stop552" />
-      <stop
-         offset="0.889"
-         style="stop-color:#FFFF76"
-         id="stop554" />
-      <stop
-         offset="0.932"
-         style="stop-color:#FFFF8B"
-         id="stop556" />
-      <stop
-         offset="0.9607"
-         style="stop-color:#FFFF92"
-         id="stop558" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9785"
-       id="linearGradient13805"
-       gradientUnits="userSpaceOnUse"
-       x1="3.6491497"
-       y1="15.429803"
-       x2="2.9503095"
-       y2="21.485493"
-       gradientTransform="matrix(-0.54240994,0.55720377,-0.55709374,-0.54251707,29.700258,1042.5962)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient11867"
-       id="linearGradient13973"
-       x1="13.625"
-       y1="-6"
-       x2="9.6084728"
-       y2="8.9898825"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.72686325,0.41171334,-0.41163204,0.72700681,5.725383,1004.2091)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9740"
-       id="linearGradient14021"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.02393675,0.00730902,0.00730757,-0.02394148,15.645704,1016.8576)"
-       x1="-162.09065"
-       y1="335.24799"
-       x2="-158.69731"
-       y2="236.93127" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient11867"
-       id="linearGradient14089"
-       x1="48.08326"
-       y1="-0.083261035"
-       x2="38.006989"
-       y2="7.120389"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.83532695,0,0,0.83549193,3.9159048,1008.3623)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9692"
-       id="linearGradient14097"
-       x1="48.125"
-       y1="1.2812501"
-       x2="42.127586"
-       y2="4.7438598"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.83532695,0,0,0.83549193,3.9159048,1008.3623)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient11867"
-       id="linearGradient14207"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.72686325,0.41171334,-0.41163204,0.72700681,4.9224473,1004.2091)"
-       x1="13.625"
-       y1="-6"
-       x2="9.6084728"
-       y2="8.9898825" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient14189"
-       id="linearGradient3251"
-       gradientUnits="userSpaceOnUse"
-       x1="47.75"
-       y1="13"
-       x2="32"
-       y2="46.375" />
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="-15.213711"
-     inkscape:cy="37.655908"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="744"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     showguides="false"
-     inkscape:snap-nodes="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3249" />
-  </sodipodi:namedview>
+   id="svg1312"
+   sodipodi:docname="firefox-developer-edition.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
-     id="metadata7">
+     id="metadata1318">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <defs
+     id="defs1316" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     id="namedview1314"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="58.936928"
+     inkscape:cy="28.402128"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1312" />
+  <linearGradient
+     id="a">
+    <stop
+       offset="0"
+       stop-color="#3889e9"
+       id="stop2" />
+    <stop
+       offset="1"
+       stop-color="#5ea5fb"
+       id="stop4" />
+  </linearGradient>
+  <linearGradient
+     id="b"
+     gradientUnits="userSpaceOnUse"
+     x1="-488.26793372584"
+     x2="-488.26793372584"
+     xlink:href="#a"
+     y1="685.242424127329"
+     y2="219.42073212733" />
+  <linearGradient
+     id="c"
+     gradientUnits="userSpaceOnUse"
+     x1="129.607335669441"
+     x2="129.607335669441"
+     xlink:href="#a"
+     y1="647.80022201572"
+     y2="165.610094015719" />
+  <linearGradient
+     id="d"
+     gradientUnits="userSpaceOnUse"
+     x1="-563.075980078632"
+     x2="-475.294882572312"
+     y1="349.622660173464"
+     y2="299.772028413121">
+    <stop
+       offset="0"
+       stop-color="#ec3a00"
+       id="stop9" />
+    <stop
+       offset="1"
+       stop-color="#ffb900"
+       stop-opacity=".015686"
+       id="stop11" />
+  </linearGradient>
+  <linearGradient
+     id="e"
+     gradientUnits="userSpaceOnUse"
+     x1="-419.892934577168"
+     x2="-345.962210533768"
+     y1="381.17795316652"
+     y2="381.17795316652">
+    <stop
+       offset="0"
+       stop-color="#de4000"
+       id="stop14" />
+    <stop
+       offset="1"
+       stop-color="#fab600"
+       id="stop16" />
+  </linearGradient>
+  <linearGradient
+     id="f"
+     gradientTransform="matrix(1.3117064 0 0 1.3228893 -118.85579 193.11044)"
+     gradientUnits="userSpaceOnUse"
+     x1="-262.73923"
+     x2="-132.19847"
+     y1="196.19754"
+     y2="241.34654">
+    <stop
+       offset="0"
+       stop-color="#f24d00"
+       id="stop19" />
+    <stop
+       offset="1"
+       stop-color="#ffb000"
+       id="stop21" />
+  </linearGradient>
+  <linearGradient
+     id="g"
+     gradientUnits="userSpaceOnUse"
+     x1="-1483.130189853761"
+     x2="-1483.130189853761"
+     xlink:href="#a"
+     y1="683.662696574118"
+     y2="138.004408574119" />
+  <linearGradient
+     id="h"
+     gradientUnits="userSpaceOnUse"
+     x1="623.441835669441"
+     x2="623.441835669441"
+     xlink:href="#a"
+     y1="675.566222015719"
+     y2="193.376094015719" />
+  <linearGradient
+     id="i"
+     gradientUnits="userSpaceOnUse"
+     x1="-.518564330559"
+     x2="-.518564330559"
+     xlink:href="#a"
+     y1="715.89102201572"
+     y2="233.700894015719" />
+  <linearGradient
+     id="j"
+     gradientUnits="userSpaceOnUse"
+     x1="-346.08835308"
+     x2="-343.993357944"
+     y1="682.239246207999"
+     y2="235.295631791998">
+    <stop
+       offset="0"
+       stop-color="#5043e2"
+       id="stop27"
+       style="stop-color:#3c27c8;stop-opacity:1" />
+    <stop
+       offset="1"
+       stop-color="#418dff"
+       id="stop29" />
+  </linearGradient>
+  <linearGradient
+     id="k"
+     gradientTransform="matrix(.91438915 0 0 .91300453 -584.9057 246.98108)"
+     gradientUnits="userSpaceOnUse"
+     x1="276.07495"
+     x2="263.67963"
+     y1="521.2981"
+     y2="24.895563">
+    <stop
+       offset="0"
+       stop-color="#fc5500"
+       id="stop32" />
+    <stop
+       offset="1"
+       stop-color="#ffc200"
+       id="stop34" />
+  </linearGradient>
+  <linearGradient
+     id="l"
+     gradientTransform="matrix(.39833291 .4070572 -.40644084 .39772986 -309.89585 275.61242)"
+     gradientUnits="userSpaceOnUse"
+     x1="516.3222"
+     x2="477.79111"
+     y1="486.26266"
+     y2="-33.617302">
+    <stop
+       offset="0"
+       stop-color="#fc5500"
+       stop-opacity=".04"
+       id="stop37" />
+    <stop
+       offset=".45650545"
+       stop-color="#fd8b00"
+       id="stop39" />
+    <stop
+       offset="1"
+       stop-color="#ffc200"
+       id="stop41" />
+  </linearGradient>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1004.3622)">
-    <rect
-       style="fill:url(#linearGradient865);fill-opacity:1;stroke:none"
-       id="rect2991-1"
-       width="40.095695"
-       height="40.103615"
-       x="3.9159045"
-       y="-1048.4658"
-       ry="0"
-       transform="scale(1,-1)" />
+     transform="matrix(.086812809787 0 0 .086812809787 53.540458087565 -15.40014610361)"
+     id="g1310">
+    <circle
+       cx="-471.63257"
+       cy="452.33035"
+       fill="url(#b)"
+       r="0"
+       id="circle44" />
     <g
-       id="g14179"
-       transform="matrix(0.83532695,0,0,0.83549193,3.9159048,1008.3623)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path14172"
-         d="m 40.625,0.8046875 c -1.364979,0.7168755 -3.017293,1.7994021 -4,2.6875 -0.174728,0.2518995 -0.345705,0.4652519 -0.53125,0.75 0.701166,-0.8283778 2.421674,-1.9891429 3.9375,-2.84375 0.199987,-0.2318699 0.39129,-0.44109684 0.59375,-0.59375 z m 7.375,2.4375 c -0.923684,0.5494821 -2.378327,1.1302323 -4.59375,1.625 -0.670048,0.6222438 -1.277711,1.3051913 -1.75,2.0625 -0.08637,0.239036 -0.112697,0.3227284 -0.21875,0.625 0.496623,-0.9111933 1.189104,-1.7134777 1.96875,-2.4375 2.215423,-0.4947677 3.670066,-1.0755179 4.59375,-1.625 l 0,-0.25 z m -5.46875,1.21875 c -1.479866,1.6928842 -2.661049,3.4512098 -2.8125,5.46875 0.208818,-1.7735985 1.256039,-3.3308213 2.53125,-4.84375 0.0095,-0.022959 0.02142,-0.039138 0.03125,-0.0625 0.08669,-0.2059651 0.182775,-0.4293408 0.25,-0.5625 z M 40,5.9296875 c -1.839152,1.9924065 -3.124969,3.6366809 -6.53125,3.8125 -0.305908,0.1176218 -0.607083,0.2228495 -0.9375,0.2812495 4.080884,0.104704 5.42448,-1.6273503 7.375,-3.7499995 C 39.93609,6.1638192 39.96923,6.0285335 40,5.9296875 z m -0.4375,3.25 c 0.0022,0.4949586 0.04325,1.0214905 0.125,1.5937495 -0.0023,-0.08391 -0.0013,-0.166987 0,-0.25 -0.06798,-0.475881 -0.113509,-0.9211208 -0.125,-1.3437495 z"
-         style="fill:#000000;fill-opacity:0.11571948;stroke:none" />
-      <path
-         style="fill:#000000;fill-opacity:0.05882353;stroke:none"
-         d="m 40.625,1.0507812 c -1.364979,0.7168755 -3.017293,1.7994022 -4,2.6875001 -0.174728,0.2518995 -0.345705,0.4652518 -0.53125,0.7499999 0.701166,-0.8283778 2.421674,-1.9891428 3.9375,-2.84375 0.199987,-0.2318698 0.39129,-0.4410968 0.59375,-0.59375 z M 48,3.4882813 c -0.923684,0.549482 -2.378327,1.1302322 -4.59375,1.6249999 -0.670048,0.6222438 -1.277711,1.3051913 -1.75,2.0625 -0.08637,0.239036 -0.112697,0.3227284 -0.21875,0.625 0.496623,-0.9111933 1.189104,-1.7134777 1.96875,-2.4375 C 45.621673,4.8685135 47.076316,4.2877633 48,3.7382813 l 0,-0.25 z m -5.46875,1.2187499 c -1.479866,1.6928842 -2.661049,3.4512099 -2.8125,5.4687498 0.208818,-1.7735982 1.256039,-3.3308211 2.53125,-4.8437498 0.0095,-0.022959 0.02142,-0.039138 0.03125,-0.0625 0.08669,-0.2059651 0.182775,-0.4293408 0.25,-0.5625 z M 40,6.1757812 c -1.839152,1.9924066 -3.124969,3.636681 -6.53125,3.8125001 -0.305908,0.1176217 -0.607083,0.2228487 -0.9375,0.2812487 4.080884,0.104704 5.42448,-1.6273495 7.375,-3.7499987 C 39.936086,6.4099129 39.969234,6.2746272 40,6.1757812 z m -0.4375,3.2500001 c 0.0022,0.4949586 0.04325,1.0214897 0.125,1.5937487 -0.0023,-0.08391 -0.0013,-0.166987 0,-0.25 -0.06798,-0.475881 -0.113509,-0.92112 -0.125,-1.3437487 z"
-         id="path14177"
-         inkscape:connector-curvature="0" />
+       stroke-width=".852251"
+       id="g460">
+      <text
+         opacity=".8"
+         x="6289.3403"
+         y="294.47772"
+         id="text48">
+        <tspan
+           stroke-width=".852251"
+           x="6289.3403"
+           y="294.47772"
+           id="tspan46" />
+      </text>
+      <text
+         opacity=".8"
+         x="6532.7812"
+         y="-119.45393"
+         id="text52">
+        <tspan
+           stroke-width=".852251"
+           x="6532.7812"
+           y="-119.45393"
+           id="tspan50" />
+      </text>
+      <text
+         opacity=".8"
+         x="-8407.9365"
+         y="-425.04474"
+         id="text56">
+        <tspan
+           stroke-width=".852251"
+           x="-8407.9365"
+           y="-425.04474"
+           id="tspan54" />
+      </text>
+      <text
+         opacity=".8"
+         x="-26936.396"
+         y="7149.6997"
+         id="text60">
+        <tspan
+           stroke-width=".852251"
+           x="-26936.396"
+           y="7149.6997"
+           id="tspan58" />
+      </text>
+      <text
+         opacity=".8"
+         x="-7244.7197"
+         y="-4339.865700000001"
+         id="text64">
+        <tspan
+           stroke-width=".852251"
+           x="-7244.7197"
+           y="-4339.865700000001"
+           id="tspan62" />
+      </text>
+      <text
+         opacity=".8"
+         x="960.43378"
+         y="-8540.6787"
+         id="text68">
+        <tspan
+           stroke-width=".852251"
+           x="960.43378"
+           y="-8540.6787"
+           id="tspan66" />
+      </text>
+      <text
+         opacity=".8"
+         x="1203.8745"
+         y="-8954.6113"
+         id="text72">
+        <tspan
+           stroke-width=".852251"
+           x="1203.8745"
+           y="-8954.6113"
+           id="tspan70" />
+      </text>
+      <text
+         opacity=".8"
+         x="-13949.235"
+         y="-9027.8623"
+         id="text76">
+        <tspan
+           stroke-width=".852251"
+           x="-13949.235"
+           y="-9027.8623"
+           id="tspan74" />
+      </text>
+      <text
+         opacity=".8"
+         x="889.72638"
+         y="-11803.893"
+         id="text80">
+        <tspan
+           stroke-width=".852251"
+           x="889.72638"
+           y="-11803.893"
+           id="tspan78" />
+      </text>
+      <text
+         opacity=".8"
+         x="15988.587"
+         y="-5436.7734"
+         id="text84">
+        <tspan
+           stroke-width=".852251"
+           x="15988.587"
+           y="-5436.7734"
+           id="tspan82" />
+      </text>
+      <text
+         opacity=".8"
+         x="16232.024"
+         y="-5850.7051"
+         id="text88">
+        <tspan
+           stroke-width=".852251"
+           x="16232.024"
+           y="-5850.7051"
+           id="tspan86" />
+      </text>
+      <text
+         opacity=".8"
+         x="1078.9154"
+         y="-5923.9575"
+         id="text92">
+        <tspan
+           stroke-width=".852251"
+           x="1078.9154"
+           y="-5923.9575"
+           id="tspan90" />
+      </text>
+      <text
+         opacity=".8"
+         x="15917.878"
+         y="-8699.9863"
+         id="text96">
+        <tspan
+           stroke-width=".852251"
+           x="15917.878"
+           y="-8699.9863"
+           id="tspan94" />
+      </text>
+      <text
+         opacity=".8"
+         x="-8449.1992"
+         y="-6412.5601"
+         id="text100">
+        <tspan
+           stroke-width=".852251"
+           x="-8449.1992"
+           y="-6412.5601"
+           id="tspan98" />
+      </text>
+      <text
+         opacity=".8"
+         x="-26977.654"
+         y="1162.1864"
+         id="text104">
+        <tspan
+           stroke-width=".852251"
+           x="-26977.654"
+           y="1162.1864"
+           id="tspan102" />
+      </text>
+      <text
+         opacity=".8"
+         x="-9555.9199"
+         y="2105.7571"
+         id="text108">
+        <tspan
+           stroke-width=".852251"
+           x="-9555.9199"
+           y="2105.7571"
+           id="tspan106" />
+      </text>
+      <text
+         opacity=".8"
+         x="1711.6509"
+         y="285.28549"
+         id="text112">
+        <tspan
+           stroke-width=".852251"
+           x="1711.6509"
+           y="285.28549"
+           id="tspan110" />
+      </text>
+      <text
+         opacity=".8"
+         x="1955.0917"
+         y="-128.64584"
+         id="text116">
+        <tspan
+           stroke-width=".852251"
+           x="1955.0917"
+           y="-128.64584"
+           id="tspan114" />
+      </text>
+      <text
+         opacity=".8"
+         x="-13198.018"
+         y="-201.89851"
+         id="text120">
+        <tspan
+           stroke-width=".852251"
+           x="-13198.018"
+           y="-201.89851"
+           id="tspan118" />
+      </text>
+      <text
+         opacity=".8"
+         x="1640.9435"
+         y="-2977.9277"
+         id="text124">
+        <tspan
+           stroke-width=".852251"
+           x="1640.9435"
+           y="-2977.9277"
+           id="tspan122" />
+      </text>
+      <text
+         opacity=".8"
+         x="-8800.7324"
+         y="-229.47516"
+         id="text128">
+        <tspan
+           stroke-width=".852251"
+           x="-8800.7324"
+           y="-229.47516"
+           id="tspan126" />
+      </text>
+      <text
+         opacity=".8"
+         x="-27329.191"
+         y="7345.2705"
+         id="text132">
+        <tspan
+           stroke-width=".852251"
+           x="-27329.191"
+           y="7345.2705"
+           id="tspan130" />
+      </text>
+      <text
+         opacity=".8"
+         x="-7265.6431"
+         y="-8982.5352"
+         id="text136">
+        <tspan
+           stroke-width=".852251"
+           x="-7265.6431"
+           y="-8982.5352"
+           id="tspan134" />
+      </text>
+      <text
+         opacity=".8"
+         x="939.51013"
+         y="-13183.35"
+         id="text140">
+        <tspan
+           stroke-width=".852251"
+           x="939.51013"
+           y="-13183.35"
+           id="tspan138" />
+      </text>
+      <text
+         opacity=".8"
+         x="1182.9504"
+         y="-13597.28"
+         id="text144">
+        <tspan
+           stroke-width=".852251"
+           x="1182.9504"
+           y="-13597.28"
+           id="tspan142" />
+      </text>
+      <text
+         opacity=".8"
+         x="-13970.158"
+         y="-13670.532"
+         id="text148">
+        <tspan
+           stroke-width=".852251"
+           x="-13970.158"
+           y="-13670.532"
+           id="tspan146" />
+      </text>
+      <text
+         opacity=".8"
+         x="868.80212"
+         y="-16446.562"
+         id="text152">
+        <tspan
+           stroke-width=".852251"
+           x="868.80212"
+           y="-16446.562"
+           id="tspan150" />
+      </text>
+      <text
+         opacity=".8"
+         x="15967.66"
+         y="-10079.445"
+         id="text156">
+        <tspan
+           stroke-width=".852251"
+           x="15967.66"
+           y="-10079.445"
+           id="tspan154" />
+      </text>
+      <text
+         opacity=".8"
+         x="16211.102"
+         y="-10493.375"
+         id="text160">
+        <tspan
+           stroke-width=".852251"
+           x="16211.102"
+           y="-10493.375"
+           id="tspan158" />
+      </text>
+      <text
+         opacity=".8"
+         x="1057.9911"
+         y="-10566.629"
+         id="text164">
+        <tspan
+           stroke-width=".852251"
+           x="1057.9911"
+           y="-10566.629"
+           id="tspan162" />
+      </text>
+      <text
+         opacity=".8"
+         x="15896.954"
+         y="-13342.658"
+         id="text168">
+        <tspan
+           stroke-width=".852251"
+           x="15896.954"
+           y="-13342.658"
+           id="tspan166" />
+      </text>
+      <text
+         opacity=".8"
+         x="-8470.124"
+         y="-11055.23"
+         id="text172">
+        <tspan
+           stroke-width=".852251"
+           x="-8470.124"
+           y="-11055.23"
+           id="tspan170" />
+      </text>
+      <text
+         opacity=".8"
+         x="-26998.58"
+         y="-3480.4844"
+         id="text176">
+        <tspan
+           stroke-width=".852251"
+           x="-26998.58"
+           y="-3480.4844"
+           id="tspan174" />
+      </text>
+      <text
+         opacity=".8"
+         x="-9576.8447"
+         y="-2536.9126"
+         id="text180">
+        <tspan
+           stroke-width=".852251"
+           x="-9576.8447"
+           y="-2536.9126"
+           id="tspan178" />
+      </text>
+      <text
+         opacity=".8"
+         x="-1042.3842"
+         y="-89.250099"
+         id="text184">
+        <tspan
+           stroke-width=".852251"
+           x="-1042.3842"
+           y="-89.250099"
+           id="tspan182" />
+      </text>
+      <text
+         opacity=".8"
+         x="-798.94354"
+         y="-503.18182"
+         id="text188">
+        <tspan
+           stroke-width=".852251"
+           x="-798.94354"
+           y="-503.18182"
+           id="tspan186" />
+      </text>
+      <text
+         opacity=".8"
+         x="-13700.147"
+         y="-2474.4924"
+         id="text192">
+        <tspan
+           stroke-width=".852251"
+           x="-13700.147"
+           y="-2474.4924"
+           id="tspan190" />
+      </text>
+      <text
+         opacity=".8"
+         x="-5494.9961"
+         y="-6675.3057"
+         id="text196">
+        <tspan
+           stroke-width=".852251"
+           x="-5494.9961"
+           y="-6675.3057"
+           id="tspan194" />
+      </text>
+      <text
+         opacity=".8"
+         x="-5251.5552"
+         y="-7089.2373"
+         id="text200">
+        <tspan
+           stroke-width=".852251"
+           x="-5251.5552"
+           y="-7089.2373"
+           id="tspan198" />
+      </text>
+      <text
+         opacity=".8"
+         x="-20404.664"
+         y="-7162.4888"
+         id="text204">
+        <tspan
+           stroke-width=".852251"
+           x="-20404.664"
+           y="-7162.4888"
+           id="tspan202" />
+      </text>
+      <text
+         opacity=".8"
+         x="-5565.7036"
+         y="-9938.5195"
+         id="text208">
+        <tspan
+           stroke-width=".852251"
+           x="-5565.7036"
+           y="-9938.5195"
+           id="tspan206" />
+      </text>
+      <text
+         opacity=".8"
+         x="9533.1543"
+         y="-3571.4001"
+         id="text212">
+        <tspan
+           stroke-width=".852251"
+           x="9533.1543"
+           y="-3571.4001"
+           id="tspan210" />
+      </text>
+      <text
+         opacity=".8"
+         x="9776.5938"
+         y="-3985.332"
+         id="text216">
+        <tspan
+           stroke-width=".852251"
+           x="9776.5938"
+           y="-3985.332"
+           id="tspan214" />
+      </text>
+      <text
+         opacity=".8"
+         x="-5376.5146"
+         y="-4058.5847"
+         id="text220">
+        <tspan
+           stroke-width=".852251"
+           x="-5376.5146"
+           y="-4058.5847"
+           id="tspan218" />
+      </text>
+      <text
+         opacity=".8"
+         x="9462.4482"
+         y="-6834.6138"
+         id="text224">
+        <tspan
+           stroke-width=".852251"
+           x="9462.4482"
+           y="-6834.6138"
+           id="tspan222" />
+      </text>
+      <text
+         opacity=".8"
+         x="-14904.63"
+         y="-4547.187"
+         id="text228">
+        <tspan
+           stroke-width=".852251"
+           x="-14904.63"
+           y="-4547.187"
+           id="tspan226" />
+      </text>
+      <text
+         opacity=".8"
+         x="-33433.086"
+         y="3027.5596"
+         id="text232">
+        <tspan
+           stroke-width=".852251"
+           x="-33433.086"
+           y="3027.5596"
+           id="tspan230" />
+      </text>
+      <text
+         opacity=".8"
+         x="-16011.406"
+         y="3971.1252"
+         id="text236">
+        <tspan
+           stroke-width=".852251"
+           x="-16011.406"
+           y="3971.1252"
+           id="tspan234" />
+      </text>
+      <text
+         opacity=".8"
+         x="6289.3403"
+         y="368.0148"
+         id="text240">
+        <tspan
+           stroke-width=".852251"
+           x="6289.3403"
+           y="368.0148"
+           id="tspan238" />
+      </text>
+      <text
+         opacity=".8"
+         x="6532.7812"
+         y="-45.916569"
+         id="text244">
+        <tspan
+           stroke-width=".852251"
+           x="6532.7812"
+           y="-45.916569"
+           id="tspan242" />
+      </text>
+      <text
+         opacity=".8"
+         x="-8407.9365"
+         y="-351.50735"
+         id="text248">
+        <tspan
+           stroke-width=".852251"
+           x="-8407.9365"
+           y="-351.50735"
+           id="tspan246" />
+      </text>
+      <text
+         opacity=".8"
+         x="-26936.396"
+         y="7223.2378"
+         id="text252">
+        <tspan
+           stroke-width=".852251"
+           x="-26936.396"
+           y="7223.2378"
+           id="tspan250" />
+      </text>
+      <text
+         opacity=".8"
+         x="-7244.7197"
+         y="-4266.3276"
+         id="text256">
+        <tspan
+           stroke-width=".852251"
+           x="-7244.7197"
+           y="-4266.3276"
+           id="tspan254" />
+      </text>
+      <text
+         opacity=".8"
+         x="960.43378"
+         y="-8467.1416"
+         id="text260">
+        <tspan
+           stroke-width=".852251"
+           x="960.43378"
+           y="-8467.1416"
+           id="tspan258" />
+      </text>
+      <text
+         opacity=".8"
+         x="1203.8745"
+         y="-8881.0732"
+         id="text264">
+        <tspan
+           stroke-width=".852251"
+           x="1203.8745"
+           y="-8881.0732"
+           id="tspan262" />
+      </text>
+      <text
+         opacity=".8"
+         x="-13949.235"
+         y="-8954.3252"
+         id="text268">
+        <tspan
+           stroke-width=".852251"
+           x="-13949.235"
+           y="-8954.3252"
+           id="tspan266" />
+      </text>
+      <text
+         opacity=".8"
+         x="889.72638"
+         y="-11730.354"
+         id="text272">
+        <tspan
+           stroke-width=".852251"
+           x="889.72638"
+           y="-11730.354"
+           id="tspan270" />
+      </text>
+      <text
+         opacity=".8"
+         x="15988.587"
+         y="-5363.2363"
+         id="text276">
+        <tspan
+           stroke-width=".852251"
+           x="15988.587"
+           y="-5363.2363"
+           id="tspan274" />
+      </text>
+      <text
+         opacity=".8"
+         x="16232.024"
+         y="-5777.1685"
+         id="text280">
+        <tspan
+           stroke-width=".852251"
+           x="16232.024"
+           y="-5777.1685"
+           id="tspan278" />
+      </text>
+      <text
+         opacity=".8"
+         x="1078.9154"
+         y="-5850.4204"
+         id="text284">
+        <tspan
+           stroke-width=".852251"
+           x="1078.9154"
+           y="-5850.4204"
+           id="tspan282" />
+      </text>
+      <text
+         opacity=".8"
+         x="15917.878"
+         y="-8626.4482"
+         id="text288">
+        <tspan
+           stroke-width=".852251"
+           x="15917.878"
+           y="-8626.4482"
+           id="tspan286" />
+      </text>
+      <text
+         opacity=".8"
+         x="-8449.1992"
+         y="-6339.0229"
+         id="text292">
+        <tspan
+           stroke-width=".852251"
+           x="-8449.1992"
+           y="-6339.0229"
+           id="tspan290" />
+      </text>
+      <text
+         opacity=".8"
+         x="-26977.654"
+         y="1235.7235"
+         id="text296">
+        <tspan
+           stroke-width=".852251"
+           x="-26977.654"
+           y="1235.7235"
+           id="tspan294" />
+      </text>
+      <text
+         opacity=".8"
+         x="-9555.9199"
+         y="2179.2949"
+         id="text300">
+        <tspan
+           stroke-width=".852251"
+           x="-9555.9199"
+           y="2179.2949"
+           id="tspan298" />
+      </text>
+      <text
+         opacity=".8"
+         x="1711.6509"
+         y="358.82257"
+         id="text304">
+        <tspan
+           stroke-width=".852251"
+           x="1711.6509"
+           y="358.82257"
+           id="tspan302" />
+      </text>
+      <text
+         opacity=".8"
+         x="1955.0917"
+         y="-55.108776"
+         id="text308">
+        <tspan
+           stroke-width=".852251"
+           x="1955.0917"
+           y="-55.108776"
+           id="tspan306" />
+      </text>
+      <text
+         opacity=".8"
+         x="-13198.018"
+         y="-128.36143"
+         id="text312">
+        <tspan
+           stroke-width=".852251"
+           x="-13198.018"
+           y="-128.36143"
+           id="tspan310" />
+      </text>
+      <text
+         opacity=".8"
+         x="1640.9435"
+         y="-2904.3904"
+         id="text316">
+        <tspan
+           stroke-width=".852251"
+           x="1640.9435"
+           y="-2904.3904"
+           id="tspan314" />
+      </text>
+      <text
+         opacity=".8"
+         x="-8800.7324"
+         y="-155.93774"
+         id="text320">
+        <tspan
+           stroke-width=".852251"
+           x="-8800.7324"
+           y="-155.93774"
+           id="tspan318" />
+      </text>
+      <text
+         opacity=".8"
+         x="-27329.191"
+         y="7418.8081"
+         id="text324">
+        <tspan
+           stroke-width=".852251"
+           x="-27329.191"
+           y="7418.8081"
+           id="tspan322" />
+      </text>
+      <text
+         opacity=".8"
+         x="-7265.6431"
+         y="-8908.998"
+         id="text328">
+        <tspan
+           stroke-width=".852251"
+           x="-7265.6431"
+           y="-8908.998"
+           id="tspan326" />
+      </text>
+      <text
+         opacity=".8"
+         x="939.51013"
+         y="-13109.811"
+         id="text332">
+        <tspan
+           stroke-width=".852251"
+           x="939.51013"
+           y="-13109.811"
+           id="tspan330" />
+      </text>
+      <text
+         opacity=".8"
+         x="1182.9504"
+         y="-13523.744"
+         id="text336">
+        <tspan
+           stroke-width=".852251"
+           x="1182.9504"
+           y="-13523.744"
+           id="tspan334" />
+      </text>
+      <text
+         opacity=".8"
+         x="-13970.158"
+         y="-13596.995"
+         id="text340">
+        <tspan
+           stroke-width=".852251"
+           x="-13970.158"
+           y="-13596.995"
+           id="tspan338" />
+      </text>
+      <text
+         opacity=".8"
+         x="868.80212"
+         y="-16373.025"
+         id="text344">
+        <tspan
+           stroke-width=".852251"
+           x="868.80212"
+           y="-16373.025"
+           id="tspan342" />
+      </text>
+      <text
+         opacity=".8"
+         x="15967.66"
+         y="-10005.908"
+         id="text348">
+        <tspan
+           stroke-width=".852251"
+           x="15967.66"
+           y="-10005.908"
+           id="tspan346" />
+      </text>
+      <text
+         opacity=".8"
+         x="16211.102"
+         y="-10419.84"
+         id="text352">
+        <tspan
+           stroke-width=".852251"
+           x="16211.102"
+           y="-10419.84"
+           id="tspan350" />
+      </text>
+      <text
+         opacity=".8"
+         x="1057.9911"
+         y="-10493.091"
+         id="text356">
+        <tspan
+           stroke-width=".852251"
+           x="1057.9911"
+           y="-10493.091"
+           id="tspan354" />
+      </text>
+      <text
+         opacity=".8"
+         x="15896.954"
+         y="-13269.121"
+         id="text360">
+        <tspan
+           stroke-width=".852251"
+           x="15896.954"
+           y="-13269.121"
+           id="tspan358" />
+      </text>
+      <text
+         opacity=".8"
+         x="-8470.124"
+         y="-10981.693"
+         id="text364">
+        <tspan
+           stroke-width=".852251"
+           x="-8470.124"
+           y="-10981.693"
+           id="tspan362" />
+      </text>
+      <text
+         opacity=".8"
+         x="-26998.58"
+         y="-3406.947"
+         id="text368">
+        <tspan
+           stroke-width=".852251"
+           x="-26998.58"
+           y="-3406.947"
+           id="tspan366" />
+      </text>
+      <text
+         opacity=".8"
+         x="-9576.8447"
+         y="-2463.3752"
+         id="text372">
+        <tspan
+           stroke-width=".852251"
+           x="-9576.8447"
+           y="-2463.3752"
+           id="tspan370" />
+      </text>
+      <text
+         opacity=".8"
+         x="-1042.3842"
+         y="-15.713047"
+         id="text376">
+        <tspan
+           stroke-width=".852251"
+           x="-1042.3842"
+           y="-15.713047"
+           id="tspan374" />
+      </text>
+      <text
+         opacity=".8"
+         x="-798.94354"
+         y="-429.64474"
+         id="text380">
+        <tspan
+           stroke-width=".852251"
+           x="-798.94354"
+           y="-429.64474"
+           id="tspan378" />
+      </text>
+      <text
+         opacity=".8"
+         x="-13700.147"
+         y="-2400.9546"
+         id="text384">
+        <tspan
+           stroke-width=".852251"
+           x="-13700.147"
+           y="-2400.9546"
+           id="tspan382" />
+      </text>
+      <text
+         opacity=".8"
+         x="-5494.9961"
+         y="-6601.7686"
+         id="text388">
+        <tspan
+           stroke-width=".852251"
+           x="-5494.9961"
+           y="-6601.7686"
+           id="tspan386" />
+      </text>
+      <text
+         opacity=".8"
+         x="-5251.5552"
+         y="-7015.6997"
+         id="text392">
+        <tspan
+           stroke-width=".852251"
+           x="-5251.5552"
+           y="-7015.6997"
+           id="tspan390" />
+      </text>
+      <text
+         opacity=".8"
+         x="-20404.664"
+         y="-7088.9526"
+         id="text396">
+        <tspan
+           stroke-width=".852251"
+           x="-20404.664"
+           y="-7088.9526"
+           id="tspan394" />
+      </text>
+      <text
+         opacity=".8"
+         x="-5565.7036"
+         y="-9864.9824"
+         id="text400">
+        <tspan
+           stroke-width=".852251"
+           x="-5565.7036"
+           y="-9864.9824"
+           id="tspan398" />
+      </text>
+      <text
+         opacity=".8"
+         x="9533.1543"
+         y="-3497.863"
+         id="text404">
+        <tspan
+           stroke-width=".852251"
+           x="9533.1543"
+           y="-3497.863"
+           id="tspan402" />
+      </text>
+      <text
+         opacity=".8"
+         x="9776.5938"
+         y="-3911.7952"
+         id="text408">
+        <tspan
+           stroke-width=".852251"
+           x="9776.5938"
+           y="-3911.7952"
+           id="tspan406" />
+      </text>
+      <text
+         opacity=".8"
+         x="-5376.5146"
+         y="-3985.0471"
+         id="text412">
+        <tspan
+           stroke-width=".852251"
+           x="-5376.5146"
+           y="-3985.0471"
+           id="tspan410" />
+      </text>
+      <text
+         opacity=".8"
+         x="9462.4482"
+         y="-6761.0771"
+         id="text416">
+        <tspan
+           stroke-width=".852251"
+           x="9462.4482"
+           y="-6761.0771"
+           id="tspan414" />
+      </text>
+      <text
+         opacity=".8"
+         x="-14904.63"
+         y="-4473.649900000001"
+         id="text420">
+        <tspan
+           stroke-width=".852251"
+           x="-14904.63"
+           y="-4473.649900000001"
+           id="tspan418" />
+      </text>
+      <text
+         opacity=".8"
+         x="-33433.086"
+         y="3101.0969"
+         id="text424">
+        <tspan
+           stroke-width=".852251"
+           x="-33433.086"
+           y="3101.0969"
+           id="tspan422" />
+      </text>
+      <text
+         opacity=".8"
+         x="-16011.406"
+         y="4044.6824"
+         id="text428">
+        <tspan
+           stroke-width=".852251"
+           x="-16011.406"
+           y="4044.6824"
+           id="tspan426" />
+      </text>
+      <text
+         x="1805.556"
+         y="-3485.3901"
+         id="text434">
+        <tspan
+           stroke-width=".852251"
+           x="1805.556"
+           y="-3485.3901"
+           id="tspan430" />
+        <tspan
+           stroke-width=".852251"
+           x="1805.556"
+           y="-3324.5276"
+           id="tspan432" />
+      </text>
+      <text
+         opacity=".8"
+         x="6531.7759"
+         y="-8382.9131"
+         id="text438">
+        <tspan
+           stroke-width=".852251"
+           x="6531.7759"
+           y="-8382.9131"
+           id="tspan436" />
+      </text>
+      <text
+         opacity=".8"
+         x="-11996.682"
+         y="-808.1673"
+         id="text442">
+        <tspan
+           stroke-width=".852251"
+           x="-11996.682"
+           y="-808.1673"
+           id="tspan440" />
+      </text>
+      <text
+         opacity=".8"
+         x="13918.828"
+         y="-11278.44"
+         id="text446">
+        <tspan
+           stroke-width=".852251"
+           x="13918.828"
+           y="-11278.44"
+           id="tspan444" />
+      </text>
+      <text
+         opacity=".8"
+         x="14162.268"
+         y="-11692.372"
+         id="text450">
+        <tspan
+           stroke-width=".852251"
+           x="14162.268"
+           y="-11692.372"
+           id="tspan448" />
+      </text>
+      <text
+         opacity=".8"
+         x="-990.84192"
+         y="-11765.625"
+         id="text454">
+        <tspan
+           stroke-width=".852251"
+           x="-990.84192"
+           y="-11765.625"
+           id="tspan452" />
+      </text>
+      <text
+         opacity=".8"
+         x="13848.12"
+         y="-14541.655"
+         id="text458">
+        <tspan
+           stroke-width=".852251"
+           x="13848.12"
+           y="-14541.655"
+           id="tspan456" />
+      </text>
     </g>
+    <circle
+       cx="-1463.6434"
+       cy="410.83282"
+       fill="url(#g)"
+       r="0"
+       id="circle462" />
+    <circle
+       cx="16.701561"
+       cy="474.79477"
+       fill="url(#i)"
+       r="0"
+       id="circle464" />
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="7015.2476"
+       y="311.39581"
+       id="text468">
+      <tspan
+         stroke-width=".852251"
+         x="7015.2476"
+         y="311.39581"
+         id="tspan466" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="7267.2417"
+       y="-117.08072"
+       id="text472">
+      <tspan
+         stroke-width=".852251"
+         x="7267.2417"
+         y="-117.08072"
+         id="tspan470" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-8198.4746"
+       y="-433.40961"
+       id="text476">
+      <tspan
+         stroke-width=".852251"
+         x="-8198.4746"
+         y="-433.40961"
+         id="tspan474" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-27378.002"
+       y="7407.5029"
+       id="text480">
+      <tspan
+         stroke-width=".852251"
+         x="-27378.002"
+         y="7407.5029"
+         id="tspan478" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-6994.3843"
+       y="-4485.792000000001"
+       id="text484">
+      <tspan
+         stroke-width=".852251"
+         x="-6994.3843"
+         y="-4485.792000000001"
+         id="tspan482" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="1499.0889"
+       y="-8834.2178"
+       id="text488">
+      <tspan
+         stroke-width=".852251"
+         x="1499.0889"
+         y="-8834.2178"
+         id="tspan486" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="1751.0836"
+       y="-9262.6943"
+       id="text492">
+      <tspan
+         stroke-width=".852251"
+         x="1751.0836"
+         y="-9262.6943"
+         id="tspan490" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-13934.487"
+       y="-9338.5205"
+       id="text496">
+      <tspan
+         stroke-width=".852251"
+         x="-13934.487"
+         y="-9338.5205"
+         id="tspan494" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="1425.897"
+       y="-12212.097"
+       id="text500">
+      <tspan
+         stroke-width=".852251"
+         x="1425.897"
+         y="-12212.097"
+         id="tspan498" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="17055.311"
+       y="-5621.2446"
+       id="text504">
+      <tspan
+         stroke-width=".852251"
+         x="17055.311"
+         y="-5621.2446"
+         id="tspan502" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="17307.303"
+       y="-6049.7217"
+       id="text508">
+      <tspan
+         stroke-width=".852251"
+         x="17307.303"
+         y="-6049.7217"
+         id="tspan506" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="1621.7336"
+       y="-6125.5474"
+       id="text512">
+      <tspan
+         stroke-width=".852251"
+         x="1621.7336"
+         y="-6125.5474"
+         id="tspan510" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="16982.119"
+       y="-8999.124"
+       id="text516">
+      <tspan
+         stroke-width=".852251"
+         x="16982.119"
+         y="-8999.124"
+         id="tspan514" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-8241.1885"
+       y="-6631.3188"
+       id="text520">
+      <tspan
+         stroke-width=".852251"
+         x="-8241.1885"
+         y="-6631.3188"
+         id="tspan518" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-27420.709"
+       y="1209.5948"
+       id="text524">
+      <tspan
+         stroke-width=".852251"
+         x="-27420.709"
+         y="1209.5948"
+         id="tspan522" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-9386.7959"
+       y="2186.3215"
+       id="text528">
+      <tspan
+         stroke-width=".852251"
+         x="-9386.7959"
+         y="2186.3215"
+         id="tspan526" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="2276.7026"
+       y="301.88058"
+       id="text532">
+      <tspan
+         stroke-width=".852251"
+         x="2276.7026"
+         y="301.88058"
+         id="tspan530" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="2528.6982"
+       y="-126.5956"
+       id="text536">
+      <tspan
+         stroke-width=".852251"
+         x="2528.6982"
+         y="-126.5956"
+         id="tspan534" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-13156.873"
+       y="-202.42244"
+       id="text540">
+      <tspan
+         stroke-width=".852251"
+         x="-13156.873"
+         y="-202.42244"
+         id="tspan538" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="2203.511"
+       y="-3075.998"
+       id="text544">
+      <tspan
+         stroke-width=".852251"
+         x="2203.511"
+         y="-3075.998"
+         id="tspan542" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-8605.0732"
+       y="-230.96802"
+       id="text548">
+      <tspan
+         stroke-width=".852251"
+         x="-8605.0732"
+         y="-230.96802"
+         id="tspan546" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-27784.6"
+       y="7609.9443"
+       id="text552">
+      <tspan
+         stroke-width=".852251"
+         x="-27784.6"
+         y="7609.9443"
+         id="tspan550" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-7016.043"
+       y="-9291.5996"
+       id="text556">
+      <tspan
+         stroke-width=".852251"
+         x="-7016.043"
+         y="-9291.5996"
+         id="tspan554" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="1477.4301"
+       y="-13640.025"
+       id="text560">
+      <tspan
+         stroke-width=".852251"
+         x="1477.4301"
+         y="-13640.025"
+         id="tspan558" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="1729.4242"
+       y="-14068.502"
+       id="text564">
+      <tspan
+         stroke-width=".852251"
+         x="1729.4242"
+         y="-14068.502"
+         id="tspan562" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-13956.146"
+       y="-14144.328"
+       id="text568">
+      <tspan
+         stroke-width=".852251"
+         x="-13956.146"
+         y="-14144.328"
+         id="tspan566" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="1404.2375"
+       y="-17017.902"
+       id="text572">
+      <tspan
+         stroke-width=".852251"
+         x="1404.2375"
+         y="-17017.902"
+         id="tspan570" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="17033.65"
+       y="-10427.055"
+       id="text576">
+      <tspan
+         stroke-width=".852251"
+         x="17033.65"
+         y="-10427.055"
+         id="tspan574" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="17285.645"
+       y="-10855.528"
+       id="text580">
+      <tspan
+         stroke-width=".852251"
+         x="17285.645"
+         y="-10855.528"
+         id="tspan578" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="1600.0742"
+       y="-10931.355"
+       id="text584">
+      <tspan
+         stroke-width=".852251"
+         x="1600.0742"
+         y="-10931.355"
+         id="tspan582" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="16960.457"
+       y="-13804.932"
+       id="text588">
+      <tspan
+         stroke-width=".852251"
+         x="16960.457"
+         y="-13804.932"
+         id="tspan586" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-8262.8467"
+       y="-11437.129"
+       id="text592">
+      <tspan
+         stroke-width=".852251"
+         x="-8262.8467"
+         y="-11437.129"
+         id="tspan590" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-27442.371"
+       y="-3596.2139"
+       id="text596">
+      <tspan
+         stroke-width=".852251"
+         x="-27442.371"
+         y="-3596.2139"
+         id="tspan594" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-9408.4561"
+       y="-2619.4861"
+       id="text600">
+      <tspan
+         stroke-width=".852251"
+         x="-9408.4561"
+         y="-2619.4861"
+         id="tspan598" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-574.1059"
+       y="-85.81575"
+       id="text604">
+      <tspan
+         stroke-width=".852251"
+         x="-574.1059"
+         y="-85.81575"
+         id="tspan602" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-322.11072"
+       y="-514.2923"
+       id="text608">
+      <tspan
+         stroke-width=".852251"
+         x="-322.11072"
+         y="-514.2923"
+         id="tspan606" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-13676.648"
+       y="-2554.8723"
+       id="text612">
+      <tspan
+         stroke-width=".852251"
+         x="-13676.648"
+         y="-2554.8723"
+         id="tspan610" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-5183.1772"
+       y="-6903.2979"
+       id="text616">
+      <tspan
+         stroke-width=".852251"
+         x="-5183.1772"
+         y="-6903.2979"
+         id="tspan614" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-4931.1826"
+       y="-7331.7734"
+       id="text620">
+      <tspan
+         stroke-width=".852251"
+         x="-4931.1826"
+         y="-7331.7734"
+         id="tspan618" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-20616.754"
+       y="-7407.5996"
+       id="text624">
+      <tspan
+         stroke-width=".852251"
+         x="-20616.754"
+         y="-7407.5996"
+         id="tspan622" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-5256.3691"
+       y="-10281.177"
+       id="text628">
+      <tspan
+         stroke-width=".852251"
+         x="-5256.3691"
+         y="-10281.177"
+         id="tspan626" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="10373.045"
+       y="-3690.3245"
+       id="text632">
+      <tspan
+         stroke-width=".852251"
+         x="10373.045"
+         y="-3690.3245"
+         id="tspan630" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="10625.039"
+       y="-4118.8018"
+       id="text636">
+      <tspan
+         stroke-width=".852251"
+         x="10625.039"
+         y="-4118.8018"
+         id="tspan634" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-5060.5322"
+       y="-4194.627400000001"
+       id="text640">
+      <tspan
+         stroke-width=".852251"
+         x="-5060.5322"
+         y="-4194.627400000001"
+         id="tspan638" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="10299.854"
+       y="-7068.2036"
+       id="text644">
+      <tspan
+         stroke-width=".852251"
+         x="10299.854"
+         y="-7068.2036"
+         id="tspan642" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-14923.454"
+       y="-4700.3989"
+       id="text648">
+      <tspan
+         stroke-width=".852251"
+         x="-14923.454"
+         y="-4700.3989"
+         id="tspan646" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-34102.977"
+       y="3140.5149"
+       id="text652">
+      <tspan
+         stroke-width=".852251"
+         x="-34102.977"
+         y="3140.5149"
+         id="tspan650" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-16069.12"
+       y="4117.2363"
+       id="text656">
+      <tspan
+         stroke-width=".852251"
+         x="-16069.12"
+         y="4117.2363"
+         id="tspan654" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="7015.2476"
+       y="387.517"
+       id="text660">
+      <tspan
+         stroke-width=".852251"
+         x="7015.2476"
+         y="387.517"
+         id="tspan658" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="7267.2417"
+       y="-40.95953"
+       id="text664">
+      <tspan
+         stroke-width=".852251"
+         x="7267.2417"
+         y="-40.95953"
+         id="tspan662" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-8198.4746"
+       y="-357.28845"
+       id="text668">
+      <tspan
+         stroke-width=".852251"
+         x="-8198.4746"
+         y="-357.28845"
+         id="tspan666" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-27378.002"
+       y="7483.624"
+       id="text672">
+      <tspan
+         stroke-width=".852251"
+         x="-27378.002"
+         y="7483.624"
+         id="tspan670" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-6994.3843"
+       y="-4409.6709"
+       id="text676">
+      <tspan
+         stroke-width=".852251"
+         x="-6994.3843"
+         y="-4409.6709"
+         id="tspan674" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="1499.0889"
+       y="-8758.0957"
+       id="text680">
+      <tspan
+         stroke-width=".852251"
+         x="1499.0889"
+         y="-8758.0957"
+         id="tspan678" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="1751.0836"
+       y="-9186.5732"
+       id="text684">
+      <tspan
+         stroke-width=".852251"
+         x="1751.0836"
+         y="-9186.5732"
+         id="tspan682" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-13934.487"
+       y="-9262.3984"
+       id="text688">
+      <tspan
+         stroke-width=".852251"
+         x="-13934.487"
+         y="-9262.3984"
+         id="tspan686" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="1425.897"
+       y="-12135.976"
+       id="text692">
+      <tspan
+         stroke-width=".852251"
+         x="1425.897"
+         y="-12135.976"
+         id="tspan690" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="17055.311"
+       y="-5545.123"
+       id="text696">
+      <tspan
+         stroke-width=".852251"
+         x="17055.311"
+         y="-5545.123"
+         id="tspan694" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="17307.303"
+       y="-5973.6006"
+       id="text700">
+      <tspan
+         stroke-width=".852251"
+         x="17307.303"
+         y="-5973.6006"
+         id="tspan698" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="1621.7336"
+       y="-6049.4263"
+       id="text704">
+      <tspan
+         stroke-width=".852251"
+         x="1621.7336"
+         y="-6049.4263"
+         id="tspan702" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="16982.119"
+       y="-8923.001"
+       id="text708">
+      <tspan
+         stroke-width=".852251"
+         x="16982.119"
+         y="-8923.001"
+         id="tspan706" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-8241.1885"
+       y="-6555.1978"
+       id="text712">
+      <tspan
+         stroke-width=".852251"
+         x="-8241.1885"
+         y="-6555.1978"
+         id="tspan710" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-27420.709"
+       y="1285.7158"
+       id="text716">
+      <tspan
+         stroke-width=".852251"
+         x="-27420.709"
+         y="1285.7158"
+         id="tspan714" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-9386.7959"
+       y="2262.4436"
+       id="text720">
+      <tspan
+         stroke-width=".852251"
+         x="-9386.7959"
+         y="2262.4436"
+         id="tspan718" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="2276.7026"
+       y="378.00177"
+       id="text724">
+      <tspan
+         stroke-width=".852251"
+         x="2276.7026"
+         y="378.00177"
+         id="tspan722" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="2528.6982"
+       y="-50.474712"
+       id="text728">
+      <tspan
+         stroke-width=".852251"
+         x="2528.6982"
+         y="-50.474712"
+         id="tspan726" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-13156.873"
+       y="-126.30124"
+       id="text732">
+      <tspan
+         stroke-width=".852251"
+         x="-13156.873"
+         y="-126.30124"
+         id="tspan730" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="2203.511"
+       y="-2999.8767"
+       id="text736">
+      <tspan
+         stroke-width=".852251"
+         x="2203.511"
+         y="-2999.8767"
+         id="tspan734" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-8605.0732"
+       y="-154.8465"
+       id="text740">
+      <tspan
+         stroke-width=".852251"
+         x="-8605.0732"
+         y="-154.8465"
+         id="tspan738" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-27784.6"
+       y="7686.0674"
+       id="text744">
+      <tspan
+         stroke-width=".852251"
+         x="-27784.6"
+         y="7686.0674"
+         id="tspan742" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-7016.043"
+       y="-9215.4795"
+       id="text748">
+      <tspan
+         stroke-width=".852251"
+         x="-7016.043"
+         y="-9215.4795"
+         id="tspan746" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="1477.4301"
+       y="-13563.904"
+       id="text752">
+      <tspan
+         stroke-width=".852251"
+         x="1477.4301"
+         y="-13563.904"
+         id="tspan750" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="1729.4242"
+       y="-13992.382"
+       id="text756">
+      <tspan
+         stroke-width=".852251"
+         x="1729.4242"
+         y="-13992.382"
+         id="tspan754" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-13956.146"
+       y="-14068.207"
+       id="text760">
+      <tspan
+         stroke-width=".852251"
+         x="-13956.146"
+         y="-14068.207"
+         id="tspan758" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="1404.2375"
+       y="-16941.783"
+       id="text764">
+      <tspan
+         stroke-width=".852251"
+         x="1404.2375"
+         y="-16941.783"
+         id="tspan762" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="17033.65"
+       y="-10350.934"
+       id="text768">
+      <tspan
+         stroke-width=".852251"
+         x="17033.65"
+         y="-10350.934"
+         id="tspan766" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="17285.645"
+       y="-10779.409"
+       id="text772">
+      <tspan
+         stroke-width=".852251"
+         x="17285.645"
+         y="-10779.409"
+         id="tspan770" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="1600.0742"
+       y="-10855.235"
+       id="text776">
+      <tspan
+         stroke-width=".852251"
+         x="1600.0742"
+         y="-10855.235"
+         id="tspan774" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="16960.457"
+       y="-13728.812"
+       id="text780">
+      <tspan
+         stroke-width=".852251"
+         x="16960.457"
+         y="-13728.812"
+         id="tspan778" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-8262.8467"
+       y="-11361.006"
+       id="text784">
+      <tspan
+         stroke-width=".852251"
+         x="-8262.8467"
+         y="-11361.006"
+         id="tspan782" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-27442.371"
+       y="-3520.0923"
+       id="text788">
+      <tspan
+         stroke-width=".852251"
+         x="-27442.371"
+         y="-3520.0923"
+         id="tspan786" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-9408.4561"
+       y="-2543.365"
+       id="text792">
+      <tspan
+         stroke-width=".852251"
+         x="-9408.4561"
+         y="-2543.365"
+         id="tspan790" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-574.1059"
+       y="-9.694569"
+       id="text796">
+      <tspan
+         stroke-width=".852251"
+         x="-574.1059"
+         y="-9.694569"
+         id="tspan794" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-322.11072"
+       y="-438.17142"
+       id="text800">
+      <tspan
+         stroke-width=".852251"
+         x="-322.11072"
+         y="-438.17142"
+         id="tspan798" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-13676.648"
+       y="-2478.7507"
+       id="text804">
+      <tspan
+         stroke-width=".852251"
+         x="-13676.648"
+         y="-2478.7507"
+         id="tspan802" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-5183.1772"
+       y="-6827.1768"
+       id="text808">
+      <tspan
+         stroke-width=".852251"
+         x="-5183.1772"
+         y="-6827.1768"
+         id="tspan806" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-4931.1826"
+       y="-7255.6533"
+       id="text812">
+      <tspan
+         stroke-width=".852251"
+         x="-4931.1826"
+         y="-7255.6533"
+         id="tspan810" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-20616.754"
+       y="-7331.4795"
+       id="text816">
+      <tspan
+         stroke-width=".852251"
+         x="-20616.754"
+         y="-7331.4795"
+         id="tspan814" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-5256.3691"
+       y="-10205.056"
+       id="text820">
+      <tspan
+         stroke-width=".852251"
+         x="-5256.3691"
+         y="-10205.056"
+         id="tspan818" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="10373.045"
+       y="-3614.2031"
+       id="text824">
+      <tspan
+         stroke-width=".852251"
+         x="10373.045"
+         y="-3614.2031"
+         id="tspan822" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="10625.039"
+       y="-4042.6802"
+       id="text828">
+      <tspan
+         stroke-width=".852251"
+         x="10625.039"
+         y="-4042.6802"
+         id="tspan826" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-5060.5322"
+       y="-4118.5063"
+       id="text832">
+      <tspan
+         stroke-width=".852251"
+         x="-5060.5322"
+         y="-4118.5063"
+         id="tspan830" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="10299.854"
+       y="-6992.082"
+       id="text836">
+      <tspan
+         stroke-width=".852251"
+         x="10299.854"
+         y="-6992.082"
+         id="tspan834" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-14923.454"
+       y="-4624.2773"
+       id="text840">
+      <tspan
+         stroke-width=".852251"
+         x="-14923.454"
+         y="-4624.2773"
+         id="tspan838" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-34102.977"
+       y="3216.6357"
+       id="text844">
+      <tspan
+         stroke-width=".852251"
+         x="-34102.977"
+         y="3216.6357"
+         id="tspan842" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-16069.12"
+       y="4193.3784"
+       id="text848">
+      <tspan
+         stroke-width=".852251"
+         x="-16069.12"
+         y="4193.3784"
+         id="tspan846" />
+    </text>
+    <text
+       stroke-width=".852251"
+       x="2373.9075"
+       y="-3601.292"
+       id="text854">
+      <tspan
+         stroke-width=".852251"
+         x="2373.9075"
+         y="-3601.292"
+         id="tspan850" />
+      <tspan
+         stroke-width=".852251"
+         x="2373.9075"
+         y="-3434.7769"
+         id="tspan852" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="7266.2017"
+       y="-8670.9072"
+       id="text858">
+      <tspan
+         stroke-width=".852251"
+         x="7266.2017"
+         y="-8670.9072"
+         id="tspan856" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-11913.324"
+       y="-829.99481"
+       id="text862">
+      <tspan
+         stroke-width=".852251"
+         x="-11913.324"
+         y="-829.99481"
+         id="tspan860" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="14912.825"
+       y="-11668.181"
+       id="text866">
+      <tspan
+         stroke-width=".852251"
+         x="14912.825"
+         y="-11668.181"
+         id="tspan864" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="15164.819"
+       y="-12096.658"
+       id="text870">
+      <tspan
+         stroke-width=".852251"
+         x="15164.819"
+         y="-12096.658"
+         id="tspan868" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-520.7522"
+       y="-12172.484"
+       id="text874">
+      <tspan
+         stroke-width=".852251"
+         x="-520.7522"
+         y="-12172.484"
+         id="tspan872" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="14839.634"
+       y="-15046.06"
+       id="text878">
+      <tspan
+         stroke-width=".852251"
+         x="14839.634"
+         y="-15046.06"
+         id="tspan876" />
+    </text>
+    <circle
+       cx="640.66174"
+       cy="434.47015"
+       fill="url(#h)"
+       r="0"
+       id="circle880" />
+    <circle
+       cx="146.82721"
+       cy="406.70401"
+       fill="url(#c)"
+       r="0"
+       id="circle882" />
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="10047.916"
+       y="102.51606"
+       id="text886">
+      <tspan
+         stroke-width=".852251"
+         x="10047.916"
+         y="102.51606"
+         id="tspan884" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="10327.145"
+       y="-372.26746"
+       id="text890">
+      <tspan
+         stroke-width=".852251"
+         x="10327.145"
+         y="-372.26746"
+         id="tspan888" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-6810.0063"
+       y="-722.78314"
+       id="text894">
+      <tspan
+         stroke-width=".852251"
+         x="-6810.0063"
+         y="-722.78314"
+         id="tspan892" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-28062.33"
+       y="7965.5234"
+       id="text898">
+      <tspan
+         stroke-width=".852251"
+         x="-28062.33"
+         y="7965.5234"
+         id="tspan896" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-5475.7852"
+       y="-5213.1206"
+       id="text902">
+      <tspan
+         stroke-width=".852251"
+         x="-5475.7852"
+         y="-5213.1206"
+         id="tspan900" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="3935.6064"
+       y="-10031.494"
+       id="text906">
+      <tspan
+         stroke-width=".852251"
+         x="3935.6064"
+         y="-10031.494"
+         id="tspan904" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="4214.8354"
+       y="-10506.279"
+       id="text910">
+      <tspan
+         stroke-width=".852251"
+         x="4214.8354"
+         y="-10506.279"
+         id="tspan908" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-13165.93"
+       y="-10590.299"
+       id="text914">
+      <tspan
+         stroke-width=".852251"
+         x="-13165.93"
+         y="-10590.299"
+         id="tspan912" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="3854.5044"
+       y="-13774.434"
+       id="text918">
+      <tspan
+         stroke-width=".852251"
+         x="3854.5044"
+         y="-13774.434"
+         id="tspan916" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="21173.043"
+       y="-6471.2852"
+       id="text922">
+      <tspan
+         stroke-width=".852251"
+         x="21173.043"
+         y="-6471.2852"
+         id="tspan920" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="21452.27"
+       y="-6946.0693"
+       id="text926">
+      <tspan
+         stroke-width=".852251"
+         x="21452.27"
+         y="-6946.0693"
+         id="tspan924" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="4071.5056"
+       y="-7030.0898"
+       id="text930">
+      <tspan
+         stroke-width=".852251"
+         x="4071.5056"
+         y="-7030.0898"
+         id="tspan928" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="21091.941"
+       y="-10214.222"
+       id="text934">
+      <tspan
+         stroke-width=".852251"
+         x="21091.941"
+         y="-10214.222"
+         id="tspan932" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-6857.3359"
+       y="-7590.522"
+       id="text938">
+      <tspan
+         stroke-width=".852251"
+         x="-6857.3359"
+         y="-7590.522"
+         id="tspan936" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-28109.654"
+       y="1097.7861"
+       id="text942">
+      <tspan
+         stroke-width=".852251"
+         x="-28109.654"
+         y="1097.7861"
+         id="tspan940" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-8126.7544"
+       y="2180.0715"
+       id="text946">
+      <tspan
+         stroke-width=".852251"
+         x="-8126.7544"
+         y="2180.0715"
+         id="tspan944" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="4797.2598"
+       y="91.972588"
+       id="text950">
+      <tspan
+         stroke-width=".852251"
+         x="4797.2598"
+         y="91.972588"
+         id="tspan948" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="5076.4888"
+       y="-382.81088"
+       id="text954">
+      <tspan
+         stroke-width=".852251"
+         x="5076.4888"
+         y="-382.81088"
+         id="tspan952" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-12304.276"
+       y="-466.83234"
+       id="text958">
+      <tspan
+         stroke-width=".852251"
+         x="-12304.276"
+         y="-466.83234"
+         id="tspan956" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="4716.1577"
+       y="-3650.9651"
+       id="text962">
+      <tspan
+         stroke-width=".852251"
+         x="4716.1577"
+         y="-3650.9651"
+         id="tspan960" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-7260.5469"
+       y="-498.4628"
+       id="text966">
+      <tspan
+         stroke-width=".852251"
+         x="-7260.5469"
+         y="-498.4628"
+         id="tspan964" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-28512.871"
+       y="8189.8438"
+       id="text970">
+      <tspan
+         stroke-width=".852251"
+         x="-28512.871"
+         y="8189.8438"
+         id="tspan968" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-5499.7842"
+       y="-10538.31"
+       id="text974">
+      <tspan
+         stroke-width=".852251"
+         x="-5499.7842"
+         y="-10538.31"
+         id="tspan972" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="3911.6069"
+       y="-15356.685"
+       id="text978">
+      <tspan
+         stroke-width=".852251"
+         x="3911.6069"
+         y="-15356.685"
+         id="tspan976" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="4190.8354"
+       y="-15831.467"
+       id="text982">
+      <tspan
+         stroke-width=".852251"
+         x="4190.8354"
+         y="-15831.467"
+         id="tspan980" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-13189.93"
+       y="-15915.488"
+       id="text986">
+      <tspan
+         stroke-width=".852251"
+         x="-13189.93"
+         y="-15915.488"
+         id="tspan984" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="3830.5046"
+       y="-19099.621"
+       id="text990">
+      <tspan
+         stroke-width=".852251"
+         x="3830.5046"
+         y="-19099.621"
+         id="tspan988" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="21149.043"
+       y="-11796.476"
+       id="text994">
+      <tspan
+         stroke-width=".852251"
+         x="21149.043"
+         y="-11796.476"
+         id="tspan992" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="21428.27"
+       y="-12271.258"
+       id="text998">
+      <tspan
+         stroke-width=".852251"
+         x="21428.27"
+         y="-12271.258"
+         id="tspan996" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="4047.5066"
+       y="-12355.278"
+       id="text1002">
+      <tspan
+         stroke-width=".852251"
+         x="4047.5066"
+         y="-12355.278"
+         id="tspan1000" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="21067.943"
+       y="-15539.411"
+       id="text1006">
+      <tspan
+         stroke-width=".852251"
+         x="21067.943"
+         y="-15539.411"
+         id="tspan1004" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-6881.3359"
+       y="-12915.711"
+       id="text1010">
+      <tspan
+         stroke-width=".852251"
+         x="-6881.3359"
+         y="-12915.711"
+         id="tspan1008" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-28133.656"
+       y="-4227.4023"
+       id="text1014">
+      <tspan
+         stroke-width=".852251"
+         x="-28133.656"
+         y="-4227.4023"
+         id="tspan1012" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-8150.7534"
+       y="-3145.1165"
+       id="text1018">
+      <tspan
+         stroke-width=".852251"
+         x="-8150.7534"
+         y="-3145.1165"
+         id="tspan1016" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="1638.3547"
+       y="-337.62357"
+       id="text1022">
+      <tspan
+         stroke-width=".852251"
+         x="1638.3547"
+         y="-337.62357"
+         id="tspan1020" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="1917.5835"
+       y="-812.40729"
+       id="text1026">
+      <tspan
+         stroke-width=".852251"
+         x="1917.5835"
+         y="-812.40729"
+         id="tspan1024" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-12880.224"
+       y="-3073.5193"
+       id="text1030">
+      <tspan
+         stroke-width=".852251"
+         x="-12880.224"
+         y="-3073.5193"
+         id="tspan1028" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-3468.8345"
+       y="-7891.894"
+       id="text1034">
+      <tspan
+         stroke-width=".852251"
+         x="-3468.8345"
+         y="-7891.894"
+         id="tspan1032" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-3189.6055"
+       y="-8366.6777"
+       id="text1038">
+      <tspan
+         stroke-width=".852251"
+         x="-3189.6055"
+         y="-8366.6777"
+         id="tspan1036" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-20570.369"
+       y="-8450.6982"
+       id="text1042">
+      <tspan
+         stroke-width=".852251"
+         x="-20570.369"
+         y="-8450.6982"
+         id="tspan1040" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-3549.9363"
+       y="-11634.833"
+       id="text1046">
+      <tspan
+         stroke-width=".852251"
+         x="-3549.9363"
+         y="-11634.833"
+         id="tspan1044" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="13768.603"
+       y="-4331.684100000001"
+       id="text1050">
+      <tspan
+         stroke-width=".852251"
+         x="13768.603"
+         y="-4331.684100000001"
+         id="tspan1048" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="14047.83"
+       y="-4806.4678"
+       id="text1054">
+      <tspan
+         stroke-width=".852251"
+         x="14047.83"
+         y="-4806.4678"
+         id="tspan1052" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-3332.9348"
+       y="-4890.4893"
+       id="text1058">
+      <tspan
+         stroke-width=".852251"
+         x="-3332.9348"
+         y="-4890.4893"
+         id="tspan1056" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="13687.5"
+       y="-8074.6226"
+       id="text1062">
+      <tspan
+         stroke-width=".852251"
+         x="13687.5"
+         y="-8074.6226"
+         id="tspan1060" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-14261.777"
+       y="-5450.9209"
+       id="text1066">
+      <tspan
+         stroke-width=".852251"
+         x="-14261.777"
+         y="-5450.9209"
+         id="tspan1064" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-35514.098"
+       y="3237.3877"
+       id="text1070">
+      <tspan
+         stroke-width=".852251"
+         x="-35514.098"
+         y="3237.3877"
+         id="tspan1068" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-15531.258"
+       y="4319.667000000001"
+       id="text1074">
+      <tspan
+         stroke-width=".852251"
+         x="-15531.258"
+         y="4319.667000000001"
+         id="tspan1072" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="10047.916"
+       y="186.86383"
+       id="text1078">
+      <tspan
+         stroke-width=".852251"
+         x="10047.916"
+         y="186.86383"
+         id="tspan1076" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="10327.145"
+       y="-287.91968"
+       id="text1082">
+      <tspan
+         stroke-width=".852251"
+         x="10327.145"
+         y="-287.91968"
+         id="tspan1080" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-6810.0063"
+       y="-638.435"
+       id="text1086">
+      <tspan
+         stroke-width=".852251"
+         x="-6810.0063"
+         y="-638.435"
+         id="tspan1084" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-28062.33"
+       y="8049.8706"
+       id="text1090">
+      <tspan
+         stroke-width=".852251"
+         x="-28062.33"
+         y="8049.8706"
+         id="tspan1088" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-5475.7852"
+       y="-5128.7725"
+       id="text1094">
+      <tspan
+         stroke-width=".852251"
+         x="-5475.7852"
+         y="-5128.7725"
+         id="tspan1092" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="3935.6064"
+       y="-9947.1465"
+       id="text1098">
+      <tspan
+         stroke-width=".852251"
+         x="3935.6064"
+         y="-9947.1465"
+         id="tspan1096" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="4214.8354"
+       y="-10421.93"
+       id="text1102">
+      <tspan
+         stroke-width=".852251"
+         x="4214.8354"
+         y="-10421.93"
+         id="tspan1100" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-13165.93"
+       y="-10505.951"
+       id="text1106">
+      <tspan
+         stroke-width=".852251"
+         x="-13165.93"
+         y="-10505.951"
+         id="tspan1104" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="3854.5044"
+       y="-13690.085"
+       id="text1110">
+      <tspan
+         stroke-width=".852251"
+         x="3854.5044"
+         y="-13690.085"
+         id="tspan1108" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="21173.043"
+       y="-6386.937"
+       id="text1114">
+      <tspan
+         stroke-width=".852251"
+         x="21173.043"
+         y="-6386.937"
+         id="tspan1112" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="21452.27"
+       y="-6861.7217"
+       id="text1118">
+      <tspan
+         stroke-width=".852251"
+         x="21452.27"
+         y="-6861.7217"
+         id="tspan1116" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="4071.5056"
+       y="-6945.7417"
+       id="text1122">
+      <tspan
+         stroke-width=".852251"
+         x="4071.5056"
+         y="-6945.7417"
+         id="tspan1120" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="21091.941"
+       y="-10129.873"
+       id="text1126">
+      <tspan
+         stroke-width=".852251"
+         x="21091.941"
+         y="-10129.873"
+         id="tspan1124" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-6857.3359"
+       y="-7506.1743"
+       id="text1130">
+      <tspan
+         stroke-width=".852251"
+         x="-6857.3359"
+         y="-7506.1743"
+         id="tspan1128" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-28109.654"
+       y="1182.1339"
+       id="text1134">
+      <tspan
+         stroke-width=".852251"
+         x="-28109.654"
+         y="1182.1339"
+         id="tspan1132" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-8126.7544"
+       y="2264.4197"
+       id="text1138">
+      <tspan
+         stroke-width=".852251"
+         x="-8126.7544"
+         y="2264.4197"
+         id="tspan1136" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="4797.2598"
+       y="176.32036"
+       id="text1142">
+      <tspan
+         stroke-width=".852251"
+         x="4797.2598"
+         y="176.32036"
+         id="tspan1140" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="5076.4888"
+       y="-298.46313"
+       id="text1146">
+      <tspan
+         stroke-width=".852251"
+         x="5076.4888"
+         y="-298.46313"
+         id="tspan1144" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-12304.276"
+       y="-382.48431"
+       id="text1150">
+      <tspan
+         stroke-width=".852251"
+         x="-12304.276"
+         y="-382.48431"
+         id="tspan1148" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="4716.1577"
+       y="-3566.6169"
+       id="text1154">
+      <tspan
+         stroke-width=".852251"
+         x="4716.1577"
+         y="-3566.6169"
+         id="tspan1152" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-7260.5469"
+       y="-414.11472"
+       id="text1158">
+      <tspan
+         stroke-width=".852251"
+         x="-7260.5469"
+         y="-414.11472"
+         id="tspan1156" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-28512.871"
+       y="8274.1924"
+       id="text1162">
+      <tspan
+         stroke-width=".852251"
+         x="-28512.871"
+         y="8274.1924"
+         id="tspan1160" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-5499.7842"
+       y="-10453.96"
+       id="text1166">
+      <tspan
+         stroke-width=".852251"
+         x="-5499.7842"
+         y="-10453.96"
+         id="tspan1164" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="3911.6069"
+       y="-15272.335"
+       id="text1170">
+      <tspan
+         stroke-width=".852251"
+         x="3911.6069"
+         y="-15272.335"
+         id="tspan1168" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="4190.8354"
+       y="-15747.119"
+       id="text1174">
+      <tspan
+         stroke-width=".852251"
+         x="4190.8354"
+         y="-15747.119"
+         id="tspan1172" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-13189.93"
+       y="-15831.14"
+       id="text1178">
+      <tspan
+         stroke-width=".852251"
+         x="-13189.93"
+         y="-15831.14"
+         id="tspan1176" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="3830.5046"
+       y="-19015.273"
+       id="text1182">
+      <tspan
+         stroke-width=".852251"
+         x="3830.5046"
+         y="-19015.273"
+         id="tspan1180" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="21149.043"
+       y="-11712.127"
+       id="text1186">
+      <tspan
+         stroke-width=".852251"
+         x="21149.043"
+         y="-11712.127"
+         id="tspan1184" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="21428.27"
+       y="-12186.909"
+       id="text1190">
+      <tspan
+         stroke-width=".852251"
+         x="21428.27"
+         y="-12186.909"
+         id="tspan1188" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="4047.5066"
+       y="-12270.93"
+       id="text1194">
+      <tspan
+         stroke-width=".852251"
+         x="4047.5066"
+         y="-12270.93"
+         id="tspan1192" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="21067.943"
+       y="-15455.063"
+       id="text1198">
+      <tspan
+         stroke-width=".852251"
+         x="21067.943"
+         y="-15455.063"
+         id="tspan1196" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-6881.3359"
+       y="-12831.362"
+       id="text1202">
+      <tspan
+         stroke-width=".852251"
+         x="-6881.3359"
+         y="-12831.362"
+         id="tspan1200" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-28133.656"
+       y="-4143.0547"
+       id="text1206">
+      <tspan
+         stroke-width=".852251"
+         x="-28133.656"
+         y="-4143.0547"
+         id="tspan1204" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-8150.7534"
+       y="-3060.7683"
+       id="text1210">
+      <tspan
+         stroke-width=".852251"
+         x="-8150.7534"
+         y="-3060.7683"
+         id="tspan1208" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="1638.3547"
+       y="-253.27579"
+       id="text1214">
+      <tspan
+         stroke-width=".852251"
+         x="1638.3547"
+         y="-253.27579"
+         id="tspan1212" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="1917.5835"
+       y="-728.05927"
+       id="text1218">
+      <tspan
+         stroke-width=".852251"
+         x="1917.5835"
+         y="-728.05927"
+         id="tspan1216" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-12880.224"
+       y="-2989.1711"
+       id="text1222">
+      <tspan
+         stroke-width=".852251"
+         x="-12880.224"
+         y="-2989.1711"
+         id="tspan1220" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-3468.8345"
+       y="-7807.5464"
+       id="text1226">
+      <tspan
+         stroke-width=".852251"
+         x="-3468.8345"
+         y="-7807.5464"
+         id="tspan1224" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-3189.6055"
+       y="-8282.3301"
+       id="text1230">
+      <tspan
+         stroke-width=".852251"
+         x="-3189.6055"
+         y="-8282.3301"
+         id="tspan1228" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-20570.369"
+       y="-8366.3516"
+       id="text1234">
+      <tspan
+         stroke-width=".852251"
+         x="-20570.369"
+         y="-8366.3516"
+         id="tspan1232" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-3549.9363"
+       y="-11550.484"
+       id="text1238">
+      <tspan
+         stroke-width=".852251"
+         x="-3549.9363"
+         y="-11550.484"
+         id="tspan1236" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="13768.603"
+       y="-4247.3364"
+       id="text1242">
+      <tspan
+         stroke-width=".852251"
+         x="13768.603"
+         y="-4247.3364"
+         id="tspan1240" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="14047.83"
+       y="-4722.1201"
+       id="text1246">
+      <tspan
+         stroke-width=".852251"
+         x="14047.83"
+         y="-4722.1201"
+         id="tspan1244" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-3332.9348"
+       y="-4806.1406"
+       id="text1250">
+      <tspan
+         stroke-width=".852251"
+         x="-3332.9348"
+         y="-4806.1406"
+         id="tspan1248" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="13687.5"
+       y="-7990.2754"
+       id="text1254">
+      <tspan
+         stroke-width=".852251"
+         x="13687.5"
+         y="-7990.2754"
+         id="tspan1252" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-14261.777"
+       y="-5366.5723"
+       id="text1258">
+      <tspan
+         stroke-width=".852251"
+         x="-14261.777"
+         y="-5366.5723"
+         id="tspan1256" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-35514.098"
+       y="3321.7349"
+       id="text1262">
+      <tspan
+         stroke-width=".852251"
+         x="-35514.098"
+         y="3321.7349"
+         id="tspan1260" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-15531.258"
+       y="4404.0376"
+       id="text1266">
+      <tspan
+         stroke-width=".852251"
+         x="-15531.258"
+         y="4404.0376"
+         id="tspan1264" />
+    </text>
+    <text
+       stroke-width=".852251"
+       x="4904.9702"
+       y="-4233.0293"
+       id="text1272">
+      <tspan
+         stroke-width=".852251"
+         x="4904.9702"
+         y="-4233.0293"
+         id="tspan1268" />
+      <tspan
+         stroke-width=".852251"
+         x="4904.9702"
+         y="-4048.5186"
+         id="tspan1270" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="10325.991"
+       y="-9850.5342"
+       id="text1276">
+      <tspan
+         stroke-width=".852251"
+         x="10325.991"
+         y="-9850.5342"
+         id="tspan1274" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="-10926.333"
+       y="-1162.2284"
+       id="text1280">
+      <tspan
+         stroke-width=".852251"
+         x="-10926.333"
+         y="-1162.2284"
+         id="tspan1278" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="18799.014"
+       y="-13171.733"
+       id="text1284">
+      <tspan
+         stroke-width=".852251"
+         x="18799.014"
+         y="-13171.733"
+         id="tspan1282" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="19078.24"
+       y="-13646.519"
+       id="text1288">
+      <tspan
+         stroke-width=".852251"
+         x="19078.24"
+         y="-13646.519"
+         id="tspan1286" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="1697.4747"
+       y="-13730.54"
+       id="text1292">
+      <tspan
+         stroke-width=".852251"
+         x="1697.4747"
+         y="-13730.54"
+         id="tspan1290" />
+    </text>
+    <text
+       opacity=".8"
+       stroke-width=".852251"
+       x="18717.912"
+       y="-16914.674"
+       id="text1296">
+      <tspan
+         stroke-width=".852251"
+         x="18717.912"
+         y="-16914.674"
+         id="tspan1294" />
+    </text>
+    <circle
+       cx="-334.20581"
+       cy="468.24725"
+       fill="url(#j)"
+       r="229.9369"
+       id="circle1298" />
     <path
-       style="fill:#000000;fill-opacity:0.23529412;stroke:none"
-       d="m 13.783205,1008.3623 c -1.893951,1.7241 -3.774231,4.1308 -3.967804,6.9972 0.033694,0.109 0.052202,0.209 0.052202,0.209 0.2022738,-2.9953 2.2749068,-5.471 4.2549468,-7.2062 l -0.339352,0 z"
-       id="path14205"
-       inkscape:connector-curvature="0" />
+       d="m-96.785171 457.29546c5.705766-64.50218-63.311629-161.8883-92.073909-209.45261-7.26198 5.31028-11.33685 18.37383-11.33685 18.37383-42.78314-33.86492-38.6028-41.92468-56.5819-65.78374-133.27991 195.74201 135.70784 179.85217 20.17515 339.97888-1.8964 1.19152-1.83828-9.38287-11.70165-24.62795-12.53849 59.79613-93.52285 98.22756-156.04354 40.47083 18.50998 4.02275 53.65087-.62592 69.20551-12.18042.0197-.01.0395-.0296.0592-.0395 16.89147-11.53218 26.89399-19.95284 35.87689-17.96067 8.98853 2.00314 14.97226-7.00365 7.99092-14.99427-6.98964-8.00611-23.9598-19.00961-46.9201-13.01394-16.192 4.23452-36.25916 22.12301-66.88753 4.00992-23.50893-13.90868-25.72274-25.46279-25.93115-33.46525.57952-2.83666 1.31117-5.48535 2.17897-7.9057 2.70566-7.54596 10.91139-9.82305 15.47516-11.62074 7.74212 1.32756 14.41159 3.73873 21.41584 7.32599.089-2.32724.11946-5.41684-.009-8.92099.67133-1.3321.2557-5.35021-.82041-10.26217-.62-4.90191-1.62856-9.97372-3.21597-14.59435.006-.00091.01-.005.01-.007.0296-.01.0494-.0197.079-.0297.0395-.0197.0691-.0494.0987-.0888.006-.01.01-.0197.0197-.0197.0395-.0592.0691-.12933.0987-.22214.48573-2.19573 5.72596-6.43114 12.24833-10.98434 5.84472-4.08021 12.71639-8.41513 18.12959-11.7704 4.79132-2.97094 8.43882-5.17498 9.2143-5.75292.29322-.22213.64665-.48078 1.03049-.77794.0691-.0592.14316-.11058.21622-.16883.0494-.0395.0888-.0691.13623-.10662 2.57584-2.04875 6.42178-5.91897 7.22826-14.06487.002-.0197.005-.0395.006-.0592.0197-.23892.0395-.48178.0592-.72958.01-.17177.0197-.34553.0395-.52127.007-.13525.0197-.26951.0197-.40674.01-.32184.0197-.64961.0297-.98133 0-.0197.00089-.0395.002-.0592.01-.78881-.003-1.61049-.0494-2.47336-.0297-.48178-.0592-.91716-.14117-1.31285-.004-.0197-.01-.0395-.01-.0691-.009-.0395-.0197-.079-.0297-.11551-.0197-.0691-.0395-.1392-.0592-.20436-.003-.009-.006-.0197-.009-.0197-.0197-.079-.0494-.15006-.079-.22114-.002-.003-.002-.005-.003-.008-.83521-1.95288-3.96214-2.69065-16.87874-2.90972-.01-.00089-.0197-.00089-.0395-.00089-5.27054-.0889-12.16235-.0889-21.19471-.0592-15.83441.0592-24.58699-15.45621-27.38042-21.46106 3.82945-21.14149 14.89535-36.20703 33.0744-46.4235.34356-.19351.27642-.35344-.13032-.465 3.5543-2.14736-42.97899-.0592-64.38209 27.12265-18.99639-4.71472-35.55328-4.39701-49.82232-1.0536-2.74041-.079-6.15472-.4176-10.20827-1.26081-9.49045-8.58593-23.07552-24.44296-23.80332-43.37142 0 0-.0395.0395-.11946.0987-.01-.18167-.0296-.36134-.0395-.543 0 0-28.9157 22.18966-24.58788 82.68445-.01.9685-.0296 1.89543-.0592 2.79382-7.82535 10.59814-11.70881 19.50631-11.99777 21.47291-6.93198 14.09676-13.96822 35.31042-19.69408 67.51573 0 0 4.00409-12.67975 12.0416-27.0413-5.67578 63.40795-.62702 105.01851 31.48843 161.98706 74.00929 115.05085 190.80203 136.30185 286.27005 101.50851 95.46801-34.79335 169.611294-125.63103 158.321649-234.75753z"
+       fill="url(#k)"
+       id="path1300" />
     <path
-       style="fill:#000000;fill-opacity:0.23529412;stroke:none"
-       d="m 14.233259,1008.3623 c -0.05302,0.645 -0.208052,1.34 -0.522079,2.0626 -0.09141,0.3862 -0.228378,0.7779 -0.417664,1.1489 0.711708,-1.1384 0.982964,-2.2361 1.018055,-3.2115 l -0.07832,0 z"
-       id="path13992"
-       inkscape:connector-curvature="0" />
+       d="m-553.67047 366.69899c12.38803-22.87026 24.0289-37.8747 49.29265-42.35109-14.2097-13.54795-18.25664-21.07821-24.79885-44.23754-25.27363 27.33778-25.10658 55.73991-24.4938 86.58863z"
+       fill="url(#d)"
+       fill-rule="evenodd"
+       id="path1302" />
     <path
-       style="fill:#000000;fill-opacity:0.23555998;stroke:none"
-       d="m 20.309196,1022.4874 c -0.153286,0.01 -0.273768,0.016 -0.417664,0.026 -1.372866,1.0928 -2.181396,2.4461 -2.479876,4.0207 -0.0087,0.087 -0.003,0.155 0,0.235 0.336576,-1.7079 1.280527,-3.1487 2.89754,-4.2818 z m 3.080268,6.8144 c -0.02736,0.4659 -0.171803,0.8054 -0.417663,1.0966 -0.09568,0.1134 -0.217404,0.2134 -0.339351,0.3133 -0.850149,0.6879 -2.281844,1.1685 -3.654556,2.6109 0.02777,0.069 0.05315,0.139 0.07832,0.2089 1.348322,-1.3789 2.742433,-1.858 3.576244,-2.5326 0.121947,-0.1 0.24365,-0.1999 0.339351,-0.3133 0.292576,-0.3465 0.441253,-0.7707 0.417664,-1.3838 z m -7.43963,6.3446 c -2.819978,0.036 -5.031013,1.8122 -5.116379,4.1513 0.356508,-3.107 4.553086,-5.0668 8.666519,-3.0026 2.36e-4,-0.096 0.0017,-0.192 0,-0.2872 -1.209833,-0.6071 -2.424187,-0.8762 -3.55014,-0.8615 z m -1.12247,4.6473 c 0.05385,1.1313 0.634572,1.893 1.514029,2.3498 0.798262,1.3563 1.85281,2.4478 2.871437,3.2638 2.140611,-0.1244 3.948003,-0.4188 5.586248,-1.5405 0.56496,-0.3684 1.073422,-0.67 1.644551,-1.0444 0.672203,-0.3864 1.12247,-0.3394 1.12247,-0.3394 0.407625,-0.2298 0.491993,-0.5082 0.443769,-0.8094 -0.04443,0.1914 -0.172019,0.369 -0.443769,0.5222 0,0 -0.450267,-0.046 -1.12247,0.3394 -0.571129,0.3745 -1.079591,0.676 -1.644551,1.0443 -1.638245,1.1218 -3.445637,1.4162 -5.586248,1.5405 -1.018627,-0.8159 -2.073175,-1.9074 -2.871437,-3.2636 -0.805725,-0.4186 -1.381693,-1.083 -1.514029,-2.0627 z"
-       id="path13811"
-       inkscape:connector-curvature="0" />
+       d="m-396.15881 423.87959c14.7295-19.36868 60.78041-29.85507 47.25813-56.55675-31.71732-8.08243-51.59473 6.95824-64.20094-22.80975-10.88316 41.94988 3.77229 62.16069 16.94281 79.3665z"
+       fill="url(#e)"
+       fill-rule="evenodd"
+       id="path1304" />
     <path
-       style="fill:#000000;fill-opacity:0.11724824;stroke:none"
-       d="m 20.309196,1022.7745 c -0.153286,0.01 -0.273768,0.017 -0.417664,0.026 -1.372866,1.0927 -2.181396,2.4461 -2.479876,4.0207 -0.0087,0.087 -0.003,0.155 0,0.235 0.336576,-1.7079 1.280527,-3.1487 2.89754,-4.2819 z m 3.080268,6.8145 c -0.02736,0.4659 -0.171803,0.8054 -0.417663,1.0966 -0.09568,0.1134 -0.217404,0.2133 -0.339351,0.3133 -0.850149,0.688 -2.281844,1.1684 -3.654556,2.611 0.02777,0.069 0.05315,0.1389 0.07832,0.2087 1.348322,-1.3787 2.742433,-1.8577 3.576244,-2.5325 0.121947,-0.1 0.24365,-0.1999 0.339351,-0.3133 0.292576,-0.3465 0.441253,-0.7707 0.417664,-1.3838 z m -7.43963,6.3446 c -2.819978,0.036 -5.031013,1.8122 -5.116379,4.1514 0.356508,-3.1071 4.553086,-5.067 8.666519,-3.0026 2.36e-4,-0.096 0.0017,-0.1921 0,-0.2873 -1.209833,-0.6071 -2.424187,-0.8762 -3.55014,-0.8615 z m -1.12247,4.6473 c 0.05385,1.1313 0.634572,1.893 1.514029,2.3499 0.798262,1.3561 1.85281,2.4478 2.871437,3.2637 2.140611,-0.1245 3.948003,-0.4188 5.586248,-1.5405 0.56496,-0.3684 1.073422,-0.67 1.644551,-1.0445 0.672203,-0.3863 1.12247,-0.3393 1.12247,-0.3393 0.407625,-0.2299 0.491993,-0.5081 0.443769,-0.8094 -0.04443,0.1915 -0.172019,0.369 -0.443769,0.5222 0,0 -0.450267,-0.046 -1.12247,0.3394 -0.571129,0.3744 -1.079591,0.676 -1.644551,1.0444 -1.638245,1.1217 -3.445637,1.4161 -5.586248,1.5405 -1.018627,-0.816 -2.073175,-1.9075 -2.871437,-3.2638 -0.805725,-0.4185 -1.381693,-1.083 -1.514029,-2.0626 z"
-       id="path13831"
-       inkscape:connector-curvature="0" />
+       d="m-422.63461 451.27432c-62.01871 6.16272-51.32087 39.46615-46.93007 72.78123l15.87855-13.22896c11.14281 32.40562 76.92413 27.22296 113.39141 15.88339 16.61139-5.1654 31.37406-3.8948 37.79997-1.26201 18.09631 3.88345 16.88703-11.45072 8.9749-16.0139-43.31505-49.30993-83.31816 45.46272-136.70485-35.02747-3.26385-4.92085-.0494-12.98541 7.59009-23.13228z"
+       fill="url(#f)"
+       fill-rule="evenodd"
+       id="path1306" />
     <path
-       style="fill:#000000;fill-opacity:0.05882353;stroke:none"
-       d="m 20.309196,1023.0617 c -0.153286,0.01 -0.273768,0.017 -0.417664,0.026 -1.372866,1.0928 -2.181396,2.4461 -2.479876,4.0208 -0.0087,0.087 -0.003,0.1551 0,0.235 0.336576,-1.708 1.280527,-3.1487 2.89754,-4.2819 z m 3.080268,6.8145 c -0.02736,0.4659 -0.171803,0.8054 -0.417663,1.0966 -0.09568,0.1134 -0.217404,0.2134 -0.339351,0.3133 -0.850149,0.6879 -2.281844,1.1685 -3.654556,2.611 0.02777,0.069 0.05315,0.139 0.07832,0.2087 1.348322,-1.3787 2.742433,-1.8578 3.576244,-2.5326 0.121947,-0.1 0.24365,-0.1998 0.339351,-0.3133 0.292576,-0.3465 0.441253,-0.7705 0.417664,-1.3837 z m -7.43963,6.3445 c -2.819978,0.037 -5.031013,1.8123 -5.116379,4.1514 0.356508,-3.107 4.553086,-5.0668 8.666519,-3.0025 2.36e-4,-0.096 0.0017,-0.1921 0,-0.2872 -1.209833,-0.6072 -2.424187,-0.8764 -3.55014,-0.8617 z m -1.12247,4.6475 c 0.05385,1.1312 0.634572,1.8929 1.514029,2.3498 0.798262,1.3561 1.85281,2.4478 2.871437,3.2636 2.140611,-0.1244 3.948003,-0.4187 5.586248,-1.5404 0.56496,-0.3684 1.073422,-0.67 1.644551,-1.0444 0.672203,-0.3864 1.12247,-0.3394 1.12247,-0.3394 0.407625,-0.2299 0.491993,-0.5081 0.443769,-0.8094 -0.04443,0.1915 -0.172019,0.369 -0.443769,0.5222 0,0 -0.450267,-0.046 -1.12247,0.3393 -0.571129,0.3745 -1.079591,0.6761 -1.644551,1.0445 -1.638245,1.1217 -3.445637,1.416 -5.586248,1.5405 -1.018627,-0.8159 -2.073175,-1.9076 -2.871437,-3.2637 -0.805725,-0.4187 -1.381693,-1.083 -1.514029,-2.0626 z"
-       id="path13833"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:url(#linearGradient9587);fill-opacity:1;stroke:none"
-       d="m 17.419302,1026.5342 c -0.282449,1.485 -0.138731,3.1664 0.391558,5.013 0.538639,0.5486 0.892886,1.159 1.148576,1.8015 1.587676,-1.6839 3.254402,-2.0434 4.020012,-2.9503 -0.469192,-0.269 -0.78312,-0.7779 -0.78312,-1.3577 0,-0.2233 0.01991,-0.4346 0.104416,-0.6266 -0.854357,-0.044 -1.92878,0.063 -2.636501,0.026 -0.776131,-0.04 -2.394152,-0.4245 -2.244941,-1.906 z"
-       id="path8679"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccscsc" />
-    <path
-       style="fill:url(#linearGradient9530);fill-opacity:1;stroke:none"
-       d="m 6.970069,1020.5291 c -2.3064103,2.5857 -2.4116588,5.2544 -2.1405253,7.9372 1.3090503,-1.5279 3.0698468,-2.6039 5.0380656,-3.4725 -1.9766522,-1.4481 -2.4854486,-2.8841 -2.8975403,-4.4647 z"
-       id="path8669"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
-    <path
-       style="fill:url(#linearGradient9502);fill-opacity:1;stroke:none"
-       d="m 20.309196,1022.2002 c -3.533067,0.1309 -4.509951,1.4065 -5.768976,2.5326 -1.657407,-0.1838 -3.270529,-0.1728 -4.8553387,0.2088 -2.3275542,1.1889 -4.5035295,2.4778 -5.7689765,4.4385 l 0,17.4671 c 0,0.9001 0.7185674,1.6188 1.618446,1.6188 l 16.0539402,0 c -17.9138246,-5.5074 -9.831248,-15.8438 -2.088317,-11.9581 0.0045,-1.8288 -0.306935,-3.5719 -1.670654,-4.9607 -1.147429,-3.9956 -0.553777,-7.221 2.479876,-9.347 z"
-       id="path8671"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccsscccc" />
-    <path
-       style="fill:#c24f15;fill-opacity:1;stroke:none"
-       d="m 27.931554,1041.5731 c -0.225915,-0.065 -0.517502,-0.1269 -0.835326,-0.1044 -0.337401,0.024 -0.695679,0.119 -1.044159,0.3394 -0.348478,0.2205 -0.675452,0.5794 -0.939742,1.0966 -0.147092,0.2878 -0.2152,0.7711 -0.313249,1.1748 0.56496,-0.3683 1.073422,-0.6698 1.644551,-1.0443 0.672203,-0.3864 1.12247,-0.3394 1.12247,-0.3394 0.543499,-0.3065 0.533469,-0.7153 0.365455,-1.1227 z"
-       id="path9690"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cssscccc" />
-    <path
-       style="fill:url(#linearGradient9698);fill-opacity:1;stroke:none"
-       d="m 15.114507,1038.1528 c 0.0637,3.4685 2.198598,5.9352 4.111375,7.4672 2.140611,-0.1243 3.934951,-0.4187 5.573196,-1.5405 0.09805,-0.4037 0.166157,-0.887 0.313249,-1.1748 0.26429,-0.5172 0.591264,-0.8761 0.939742,-1.0966 0.34848,-0.2204 0.706758,-0.3154 1.044159,-0.3394 0.317824,-0.023 0.609411,0.039 0.835326,0.1044 -0.334874,-0.807 -1.2495,-1.2943 -1.957798,-1.5143 -1.071673,-0.151 -2.343418,0.1678 -3.106372,0.6005 -2.758886,1.4811 -6.580865,-0.053 -7.752877,-2.5065 z"
-       id="path9666"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccssscccc" />
-    <g
-       id="g9842"
-       style="fill:url(#linearGradient9851);fill-opacity:1.0"
-       transform="matrix(0.83532695,0,0,0.83549193,3.9159048,1008.3623)">
-      <path
-         id="path8704"
-         d="m 43.1875,12.84375 c 1.428894,1.407937 2.164814,3.158206 2.53125,4.90625 -3.518113,-2.742299 -8.133672,-4.586723 -12.125,-4.59375 -0.988481,-0.0017 -1.928397,0.106855 -2.8125,0.34375 -0.484721,0.129881 -0.949574,0.290179 -1.40625,0.46875 3.177357,-0.190731 6.233594,0.78904 8.6875,2.625 -1.790151,-0.288502 -3.665179,-0.250012 -5.53125,0.25 -0.484721,0.129881 -0.918324,0.290179 -1.375,0.46875 5.577399,0.634194 12.712558,2.947807 12.21875,9.28125 -0.804213,-0.747417 -1.718857,-1.412694 -2.71875,-1.9375 0,0 2.990568,5.702952 1.15625,12.90625 -1.147746,-2.121372 -2.25,-3.625 -2.25,-3.625 0,0 0.634763,7.032001 -2.15625,11.03125 0.240658,-1.850345 0.15625,-3.65625 0.15625,-3.65625 0,0 -1.017469,4.238932 -8.40625,6.21875 0,0 0.422657,0.208373 1.03125,0.46875 l 15.875,0 1.921875,0 L 48,46.0625 l 0,-22.40625 0,-3.84375 0,-4.5 c -2.326909,-1.502829 -4.8125,-2.46875 -4.8125,-2.46875 z"
-         style="fill:url(#linearGradient3251);fill-opacity:1.0;stroke:none"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccsccscccccccccccccccc" />
-    </g>
-    <path
-       style="fill:#ffffff;fill-opacity:0.11758058;stroke:none"
-       d="m 15.126358,1035.6725 c -5.7126615,0.5508 -8.4297065,8.2918 6.212747,12.7935 l 0.261038,0 c -14.642452,-4.5017 -11.9254081,-12.2427 -6.212745,-12.7935 -0.08483,0 -0.177448,-0.01 -0.26104,0 z"
-       id="path9514"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:0.15;fill:url(#linearGradient9542);fill-opacity:1;stroke:none"
-       d="m 20.309196,1022.2002 c -3.533067,0.1309 -4.509951,1.4065 -5.768976,2.5326 -1.657407,-0.1838 -3.270529,-0.1728 -4.8553387,0.2088 -2.3529871,1.1882 -4.5107249,2.479 -5.7689765,4.4385 l 0,0.3395 c 0.4865719,-0.6756 0.7243287,-1.0733 1.2790945,-1.5666 2.9495836,-2.6226 5.9216807,-3.6716 9.6845727,-2.9765 1.633892,-1.5539 2.615887,-2.4737 5.194689,-2.7936 0.05908,-0.044 0.121637,-0.086 0.182727,-0.1306 8.1e-5,-0.01 0.02295,-0.032 0.0522,-0.051 z"
-       id="path9534"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:url(#linearGradient9648);fill-opacity:1;stroke:none"
-       d="m 17.437761,1026.5342 c -0.424954,1.6019 -0.302575,3.4294 0.287143,5.483 1.230089,1.2527 1.586388,2.8064 1.64455,4.4386 0.04278,0.021 0.08776,0.031 0.13052,0.052 0.0045,-1.8287 -0.306935,-3.5719 -1.670654,-4.9607 -0.530292,-1.8466 -0.674008,-3.528 -0.391559,-5.013 z"
-       id="path9519"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#ffffff;fill-opacity:0.11864409;stroke:none"
-       d="m 6.970069,1020.5291 c -0.056487,0.063 -0.1027519,0.1194 -0.1566237,0.1828 -2.090836,2.4599 -2.2480272,4.9976 -2.0100055,7.5455 0.064104,-0.068 0.1162681,-0.1424 0.1827278,-0.2088 -0.18734,-2.3778 0.031632,-4.7495 1.9055896,-7.0496 0.3914672,1.4119 0.9519369,2.7121 2.6626054,4.021 0.045796,-0.024 0.084611,-0.054 0.1305187,-0.078 0.034897,-0.01 0.069497,-0.018 0.1044156,-0.026 -1.77993,-1.3349 -2.3450005,-2.6577 -2.740916,-4.0991 -0.026671,-0.097 -0.052714,-0.1889 -0.078313,-0.2871 z"
-       id="path9544"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:url(#linearGradient9607);fill-opacity:1;stroke:none"
-       d="m 22.604762,1030.0851 c -0.884912,0.3826 -2.6544,0.8572 -4.959754,0.7311 0.05777,0.2426 0.0852,0.4823 0.156624,0.731 0.134658,0.1372 0.252503,0.2734 0.365455,0.4178 0.03379,0.042 0.07225,0.087 0.104416,0.1305 0.074,0.1007 0.143756,0.2089 0.208832,0.3133 0.09968,0.1546 0.179413,0.3094 0.261039,0.47 0.07751,0.1523 0.14623,0.3126 0.208832,0.4699 1.587676,-1.6839 3.254401,-2.0434 4.020012,-2.9503 -0.09539,-0.054 -0.17981,-0.1097 -0.261041,-0.1828 -0.0092,-0.01 -0.01717,-0.017 -0.02611,-0.026 -0.0085,-0.01 -0.01884,-0.017 -0.02611,-0.026 -0.02093,-0.021 -0.03248,-0.057 -0.0522,-0.078 z"
-       id="path9570"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:url(#linearGradient9768);fill-opacity:1;stroke:none"
-       d="m 22.604762,1030.0851 c -0.884912,0.3826 -2.6544,0.8572 -4.959754,0.7311 0.0084,0.035 0.01884,0.069 0.0261,0.1044 2.31051,0.1222 4.083707,-0.3431 5.011962,-0.7311 -0.0085,-0.01 -0.01885,-0.016 -0.02611,-0.026 -0.02094,-0.021 -0.03248,-0.057 -0.0522,-0.078 z"
-       id="path9609"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:url(#linearGradient9579);fill-opacity:1;stroke:none"
-       d="m 22.299623,1028.4174 c -0.08451,0.192 -0.104414,0.4033 -0.104414,0.6265 0,0.5798 0.313927,1.0888 0.783118,1.3577 0.348003,-0.4122 0.502159,-0.9276 0.391559,-1.7492 -0.226825,-0.1566 -0.625818,-0.212 -1.070263,-0.235 z"
-       id="path9483"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:url(#linearGradient9661);fill-opacity:1;stroke:none"
-       d="m 15.114507,1038.179 c -1.832164,5.2525 4.738604,5.5206 7.752877,3.7335 0.648887,-0.3679 1.621868,-1.4609 4.531839,-1.0794 -1.292271,-1.3519 -3.10416,-0.9774 -4.531839,-0.1738 -2.750964,1.4769 -6.573409,-0.039 -7.752877,-2.4803 z m -0.104415,0.992 c 0.0013,0.1533 0.01028,0.3134 0.02611,0.47 -0.02073,-0.1665 -0.01535,-0.3112 -0.02611,-0.47 z"
-       id="path9650"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
-    <path
-       style="fill:#ad250f;fill-opacity:1;stroke:none"
-       d="m 25.895446,1041.8995 c -1.771391,1.4364 -2.023522,1.8629 -2.6365,2.9894 0.53066,-0.2063 1.043467,-0.4692 1.540132,-0.8094 0.577966,-2.0099 0.949275,-1.8922 1.096368,-2.18 z"
-       id="path9716"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
-    <path
-       style="fill:url(#linearGradient9738);fill-opacity:1;stroke:none"
-       d="m 15.114507,1038.2713 c -0.603271,3.1705 4.569939,5.1685 7.752877,3.7335 0.648887,-0.3679 1.658225,-1.478 4.568194,-1.0966 -0.03267,-0.03 -0.07073,-0.049 -0.104414,-0.078 -2.823372,-0.3383 -3.823377,1.0076 -4.46378,1.3707 -3.573792,2.8894 -8.534069,1.2102 -7.700668,-3.8511 -0.01426,-0.028 -0.03845,-0.049 -0.0522,-0.078 z"
-       id="path9727"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
-    <path
-       style="fill:#ad250f;fill-opacity:1;stroke:none"
-       d="m 15.949834,1035.6464 c -6.0801456,0.078 -9.4763326,8.1727 5.638457,12.8196 l 3.132477,0 c -6.610329,-1.4108 -13.037823,-10.2759 -7.126385,-12.6369 -0.564082,-0.1241 -1.111156,-0.1896 -1.644549,-0.1827 z"
-       id="rect8693"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="scccs" />
-    <path
-       style="opacity:0.1;fill:url(#linearGradient9791);fill-opacity:1;stroke:none"
-       d="m 6.7873413,1021.4169 c -1.4810633,2.0017 -1.8638237,4.2603 -1.64455,6.5012 0.147954,-0.142 0.3118336,-0.2833 0.4698714,-0.4178 0.028495,-0.024 0.049488,-0.055 0.078314,-0.078 1.0644202,-0.8885 2.3445837,-1.6043 3.6806597,-2.2977 -1.4200882,-0.8423 -2.1963769,-2.4464 -2.5842932,-3.7074 z"
-       id="path9775"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#ad250f;fill-opacity:1;stroke:none"
-       d="m 7.5704602,1041.1554 c -2.1085657,1.7759 -2.2179188,4.5357 -1.8794855,6.7361 -0.7970309,-1.3682 -1.2077571,-2.877 -0.4437675,-4.2297 0,0 -0.8761942,0.8683 -1.3313024,2.4803 l -0.018458,0.8712 0.00316,1.4607 1.606056,-0.01 4.3348405,0 c -3.4364634,-3.1013 -2.7966941,-6.1277 -2.2710437,-7.3106 z m 1.9577982,4.1252 c 0,0 -0.3303201,1.3678 0.4176634,3.1854 l 1.3051962,0 c -1.087941,-0.775 -1.803538,-1.8136 -1.7228596,-3.1854 z m 2.9236436,0.9139 c 0,0 -0.487648,0.8461 -0.548183,2.2715 l 0.548183,0 c -0.264683,-0.7159 -0.298065,-1.4793 0,-2.2715 z"
-       id="path9819"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccc" />
-    <path
-       id="path13803"
-       d="m 19.131133,1036.0347 c -0.373009,-2.2877 -1.630518,-4.0097 -3.267016,-5.3185 -0.0014,0.1909 -0.01365,0.392 -0.02653,0.5848 -0.0029,0.034 0.0047,0.069 0.0013,0.1032 -0.09874,1.2869 -0.452749,2.6056 -0.857985,3.947 1.483838,-0.4002 3.057457,0.1236 4.150205,0.6836 z"
-       style="opacity:0.1;fill:url(#linearGradient13805);fill-opacity:1;stroke:none"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#000000;fill-opacity:0.23555998;stroke:none"
-       d="m 20.309196,1022.4874 c -0.153286,0.01 -0.273768,0.016 -0.417664,0.026 -1.372866,1.0928 -2.181396,2.4461 -2.479876,4.0207 -0.0087,0.087 -0.003,0.155 0,0.235 0.336576,-1.7079 1.280527,-3.1487 2.89754,-4.2818 z m 3.080268,6.8144 c -0.02736,0.4659 -0.171803,0.8054 -0.417663,1.0966 -0.09568,0.1134 -0.217404,0.2134 -0.339351,0.3133 -0.850149,0.6879 -2.281844,1.1685 -3.654556,2.6109 0.02777,0.069 0.05315,0.139 0.07832,0.2089 1.348322,-1.3789 2.742433,-1.858 3.576244,-2.5326 0.121947,-0.1 0.24365,-0.1999 0.339351,-0.3133 0.292576,-0.3465 0.441253,-0.7707 0.417664,-1.3838 z m -7.43963,6.3446 c -2.819978,0.036 -5.031013,1.8122 -5.116379,4.1513 0.356508,-3.107 4.553086,-5.0668 8.666519,-3.0026 2.36e-4,-0.096 0.0017,-0.192 0,-0.2872 -1.209833,-0.6071 -2.424187,-0.8762 -3.55014,-0.8615 z"
-       id="path13842"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#000000;fill-opacity:0.11724824;stroke:none"
-       d="m 20.309196,1022.7745 c -0.153286,0.01 -0.273768,0.017 -0.417664,0.026 -1.372866,1.0927 -2.181396,2.4461 -2.479876,4.0207 -0.0087,0.087 -0.003,0.155 0,0.235 0.336576,-1.7079 1.280527,-3.1487 2.89754,-4.2819 z m 3.080268,6.8145 c -0.02736,0.4659 -0.171803,0.8054 -0.417663,1.0966 -0.09568,0.1134 -0.217404,0.2133 -0.339351,0.3133 -0.850149,0.688 -2.281844,1.1684 -3.654556,2.611 0.02777,0.069 0.05315,0.1389 0.07832,0.2087 1.348322,-1.3787 2.742433,-1.8577 3.576244,-2.5325 0.121947,-0.1 0.24365,-0.1999 0.339351,-0.3133 0.292576,-0.3465 0.441253,-0.7707 0.417664,-1.3838 z m -7.43963,6.3446 c -2.819978,0.036 -5.031013,1.8122 -5.116379,4.1514 0.356508,-3.1071 4.553086,-5.067 8.666519,-3.0026 2.36e-4,-0.096 0.0017,-0.1921 0,-0.2873 -1.209833,-0.6071 -2.424187,-0.8762 -3.55014,-0.8615 z"
-       id="path13844"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#000000;fill-opacity:0.05882353;stroke:none"
-       d="m 20.309196,1023.0617 c -0.153286,0.01 -0.273768,0.017 -0.417664,0.026 -1.372866,1.0928 -2.181396,2.4461 -2.479876,4.0208 -0.0087,0.087 -0.003,0.1551 0,0.235 0.336576,-1.708 1.280527,-3.1487 2.89754,-4.2819 z m 3.080268,6.8145 c -0.02736,0.4659 -0.171803,0.8054 -0.417663,1.0966 -0.09568,0.1134 -0.217404,0.2134 -0.339351,0.3133 -0.850149,0.6879 -2.281844,1.1685 -3.654556,2.611 0.02777,0.069 0.05315,0.139 0.07832,0.2087 1.348322,-1.3787 2.742433,-1.8578 3.576244,-2.5326 0.121947,-0.1 0.24365,-0.1998 0.339351,-0.3133 0.292576,-0.3465 0.441253,-0.7705 0.417664,-1.3837 z m -7.43963,6.3445 c -2.819978,0.037 -5.031013,1.8123 -5.116379,4.1514 0.356508,-3.107 4.553086,-5.0668 8.666519,-3.0025 2.36e-4,-0.096 0.0017,-0.1921 0,-0.2872 -1.209833,-0.6072 -2.424187,-0.8764 -3.55014,-0.8617 z"
-       id="path13846"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#000000;fill-opacity:0.11764706;stroke:none"
-       d="m 39.991587,1019.6154 c 1.01693,1.0022 1.614124,2.2069 1.957798,3.4463 0.05321,0.04 0.104005,0.09 0.156624,0.1305 -0.238981,-1.1402 -0.66576,-2.2842 -1.409614,-3.2896 -0.265252,-0.1134 -0.704808,-0.2872 -0.704808,-0.2872 z m -9.893402,0.4438 c -0.154736,0.032 -0.318977,0.064 -0.469872,0.1045 -0.4049,0.1084 -0.793205,0.2424 -1.174679,0.3916 2.26182,-0.1359 4.451062,0.4445 6.31716,1.5664 0.318283,0.026 0.626945,0.053 0.939744,0.1045 -1.620477,-1.2126 -3.561582,-1.9783 -5.612353,-2.167 z m 0.913638,2.9243 c -0.371997,0.1042 -0.714912,0.2265 -1.070263,0.3654 4.367767,0.4968 9.874666,2.214 10.206651,6.7883 0.04738,-4.5748 -4.821904,-6.4818 -9.136388,-7.1537 z m 6.865343,6.5011 c 0,0 1.370111,2.6044 1.461822,6.3967 0.02186,-2.9583 -0.719218,-5.1705 -1.148573,-6.2141 -0.107282,-0.062 -0.20346,-0.125 -0.313249,-0.1826 z m -0.913639,7.7545 c 0,0 0.03893,0.3629 0.0522,0.966 -2.86e-4,-0.4614 -0.01268,-0.6605 -0.02611,-0.9139 -0.0014,0 -0.02611,-0.052 -0.02611,-0.052 z m -1.670654,6.5794 c -0.0076,0.5704 -0.03,1.3418 -0.130518,2.1149 0.02229,-0.032 0.03044,-0.072 0.0522,-0.1046 0.08424,-0.962 0.08753,-1.6287 0.07832,-2.0103 z m -6.343263,4.569 c -0.08559,0.027 -0.175655,0.05 -0.26104,0.078 l 0.443767,0 c -0.106781,-0.045 -0.09149,-0.038 -0.182727,-0.078 z m 13.782895,0.026 c -0.10577,0.022 -0.226867,0.053 -0.339353,0.053 0.123734,0 0.22368,-0.026 0.339353,-0.053 z"
-       id="path13879"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#000000;fill-opacity:0.05882353;stroke:none"
-       d="m 39.991587,1020.1114 c 1.01693,1.0022 1.614124,2.207 1.957798,3.4464 0.05321,0.04 0.104005,0.089 0.156624,0.1305 -0.238981,-1.1403 -0.66576,-2.2843 -1.409614,-3.2897 -0.265252,-0.1132 -0.704808,-0.2872 -0.704808,-0.2872 z m -9.893402,0.4439 c -0.154736,0.032 -0.318977,0.064 -0.469872,0.1043 -0.4049,0.1086 -0.793205,0.2425 -1.174679,0.3918 2.26182,-0.1359 4.451062,0.4444 6.31716,1.5664 0.318283,0.026 0.626945,0.053 0.939744,0.1045 -1.620477,-1.2127 -3.561582,-1.9783 -5.612353,-2.167 z m 0.913638,2.9242 c -0.371997,0.1042 -0.714912,0.2265 -1.070263,0.3655 4.367767,0.4967 9.874666,2.214 10.206651,6.7884 0.04738,-4.575 -4.821904,-6.482 -9.136388,-7.1539 z m 6.865343,6.5011 c 0,0 1.370111,2.6045 1.461822,6.3967 0.02186,-2.9582 -0.719218,-5.1704 -1.148573,-6.2139 -0.107282,-0.062 -0.20346,-0.1251 -0.313249,-0.1828 z m -0.913639,7.7544 c 0,0 0.03893,0.3631 0.0522,0.9661 -2.86e-4,-0.4614 -0.01268,-0.6604 -0.02611,-0.9139 -0.0014,0 -0.02611,-0.052 -0.02611,-0.052 z m -1.670654,6.5796 c -0.0037,0.2852 -0.0071,0.6313 -0.0261,0.9921 0.01691,-0.4208 0.03151,-0.7687 0.0261,-0.9921 z m -0.0261,0.9921 c -0.01913,0.3607 -0.05417,0.7362 -0.104415,1.1227 0.02229,-0.032 0.03043,-0.072 0.0522,-0.1045 0.03493,-0.3988 0.04023,-0.7201 0.0522,-1.0182 z"
-       id="path13890"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:url(#linearGradient13973);fill-opacity:1;stroke:none"
-       d="m 9.3631271,1008.3623 c 0.9929439,0.465 0.5034314,1.7563 0.3215938,2.5749 -0.1818397,0.8186 -0.2221311,1.5799 -0.1950368,2.2313 0.054197,1.3025 0.3779252,2.1649 0.3779252,2.1649 0.1926277,-2.8523 2.0782007,-5.2489 3.9678037,-6.9711 z"
-       id="path14201"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:0.25600011;fill:url(#linearGradient14021);fill-opacity:1"
-       d="m 13.998324,1008.3623 c 4.24e-4,0.7739 -0.179292,1.7793 -0.208832,1.7755 0.32082,-0.5829 0.417057,-1.2788 0.443767,-1.7755 l -0.234935,0 z"
-       id="path14019"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:url(#linearGradient14089);fill-opacity:1;stroke:none"
-       d="m 36.833008,1008.3623 c -0.667805,0.5367 -1.585784,1.5288 -2.767021,3.3419 0.663117,-0.7836 2.424778,-1.9485 3.785075,-2.663 -0.869422,0.6556 -1.739444,2.343 -2.323252,3.4463 -1.144445,2.163 -2.539973,3.7115 -4.437675,4.047 3.463505,0.088 4.56616,-1.399 6.238848,-3.2114 -0.260274,0.8363 -0.503915,2.1376 -0.261041,3.838 -0.05293,-1.8955 1.019989,-3.5143 2.375463,-5.0651 -0.199154,0.3945 -0.449646,1.0531 -0.91364,2.3758 1.136556,-2.0857 3.421799,-3.4815 5.468782,-4.7518 l 0.02611,-1.3446 -1.318249,0.013 c -0.108099,0 -0.200763,-0.026 -0.313249,-0.026 z"
-       id="path14047"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccscccccccssc" />
-    <path
-       style="fill:url(#linearGradient14097);fill-opacity:1;stroke:none"
-       d="m 43.280687,1008.6233 c -0.702601,2.1107 -2.210375,3.0219 -4.033063,4.06 2.487661,-0.4442 3.851781,-1.0629 4.763974,-1.6056 l 0,-1.0966 c 0,-0.225 -0.04854,-0.4322 -0.13052,-0.6266 -0.0044,-0.01 -0.02145,-0.015 -0.02611,-0.026 -0.01772,-0.023 -0.0081,-0.029 -0.02611,-0.053 -0.161609,-0.2074 -0.284258,-0.3714 -0.391559,-0.5221 -0.05316,-0.044 -0.09791,-0.092 -0.156624,-0.1307 z"
-       id="path14055"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccsccscc" />
-    <path
-       style="fill:url(#linearGradient14207);fill-opacity:1;stroke:none"
-       d="m 13.893908,1008.3623 c 0.01785,0.8483 -0.09249,1.9811 -0.600392,2.9764 0.655303,-1.048 0.924072,-2.0603 0.991951,-2.9764 z"
-       id="path13989"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:none"
-       d="m 3.9070361,1048.4637 c 20.0500629,-1.0282 20.0500629,-1.0282 40.1001259,0 l 0,0 z"
-       id="path3253"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
-    <path
-       style="opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 3.9070361,1008.3636 c 20.0500629,1.0282 20.0500629,1.0282 40.1001259,0 l 0,0 z"
-       id="path3253-2"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       d="m-167.26662 325.28692c28.19466 96.91877-2.41171 65.28934.90231 142.7367-18.94444-7.80471-13.95547-43.78396-7.9146-44.08542-78.38634 61.66738-48.87039 117.72962-77.97895 140.87501-85.6249 65.06699-69.9199 55.24168-71.25544 57.0089 22.13333 39.75884 53.84175 53.01067 78.36551 61.98396 120.39278-41.96832 173.924546-151.79875 143.6946-268.37127-5.79555-30.28704-18.33847-64.16244-65.81344-90.14788z"
+       fill="url(#l)"
+       id="path1308" />
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Capa 2" />
 </svg>
