@@ -14,10 +14,21 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="podcast.svg">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="accessories-podcast.svg">
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient840">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop836" />
+      <stop
+         style="stop-color:#e3b7ff;stop-opacity:1"
+         offset="1"
+         id="stop838" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient910">
@@ -39,7 +50,7 @@
       <stop
          id="stop2529"
          offset="1"
-         style="stop-color:#b7e3ff;stop-opacity:1;" />
+         style="stop-color:#e3b7ff;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient868">
@@ -104,7 +115,7 @@
        y2="26.125" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient2525"
+       xlink:href="#linearGradient840"
        id="linearGradient3845"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.85398899,0,0,0.85398899,3.4937253,154.45902)"
@@ -120,16 +131,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.2692068"
-     inkscape:cx="-7.6861645"
-     inkscape:cy="23.438929"
+     inkscape:zoom="4.4329986"
+     inkscape:cx="29.933026"
+     inkscape:cy="22.141637"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -197,6 +208,6 @@
        inkscape:connector-curvature="0"
        id="path4027"
        d="m 4,1008.3622 0,0 c 20,1 20,1 40,0 z"
-       style="opacity:0.9;fill:#ffffff;fill-opacity:1;stroke:none" />
+       style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
 </svg>
