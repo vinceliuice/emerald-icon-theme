@@ -23,7 +23,7 @@ DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 KDE-Extensions=.svg
 
-Directories=actions/symbolic,actions/16,actions/22,actions/24,actions/32,actions/48,animations/16,animations/22,animations/scalable,apps/16,apps/22,apps/32,apps/48,categories/16,categories/22,categories/32,categories/scalable,devices/16,devices/22,devices/scalable,devices/symbolic,emblems/8,emblems/16,emblems/22,emblems/24,emblems/symbolic,emotes/22,mimetypes/16,mimetypes/22,mimetypes/32,mimetypes/64,places/symbolic,places/16,places/22,places/48,places/64,status/16,status/22,status/24,status/48,status/64,status/symbolic
+Directories=actions/symbolic,actions/16,actions/22,actions/24,actions/32,actions/48,animations/16,animations/22,animations/scalable,apps/16,apps/22,apps/32,apps/48,categories/16,categories/22,categories/32,categories/scalable,devices/16,devices/22,devices/scalable,devices/symbolic,emblems/8,emblems/16,emblems/22,emblems/symbolic,emotes/22,mimetypes/16,mimetypes/22,mimetypes/32,mimetypes/64,places/symbolic,places/16,places/22,places/48,places/64,status/16,status/22,status/24,status/48,status/64,status/symbolic
 
 [animations/16]
 Size=16
@@ -158,11 +158,6 @@ Type=Fixed
 
 [emblems/22]
 Size=22
-Context=Emblems
-Type=Fixed
-
-[emblems/24]
-Size=24
 Context=Emblems
 Type=Fixed
 

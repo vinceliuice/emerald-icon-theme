@@ -14,7 +14,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="facebook.svg"
    inkscape:export-filename="/home/uri/workspace/NitruxforAndroid/res/drawable-xhdpi/facebook.png"
    inkscape:export-xdpi="180"
@@ -42,6 +42,27 @@
        x2="44"
        y2="26.499983"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(0,1004.3622)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient3765"
+       id="linearGradient3771"
+       x1="4"
+       y1="24"
+       x2="44"
+       y2="24"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3765">
+      <stop
+         style="stop-color:#234896;stop-opacity:1"
+         offset="0"
+         id="stop3767" />
+      <stop
+         style="stop-color:#3b5999;stop-opacity:1"
+         offset="1"
+         id="stop3769" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -50,16 +71,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="15.812838"
-     inkscape:cy="21.266811"
+     inkscape:zoom="5.6568545"
+     inkscape:cx="-4.0601489"
+     inkscape:cy="26.28053"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-width="1366"
+     inkscape:window-height="734"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      borderlayer="true"
      inkscape:showpageshadow="false">
@@ -69,51 +90,63 @@
     <sodipodi:guide
        position="4,44.000017"
        orientation="40,0"
-       id="guide4082" />
+       id="guide4082"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="4,4.0000174"
        orientation="0,40"
-       id="guide4084" />
+       id="guide4084"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="44,4.0000174"
        orientation="-40,0"
-       id="guide4086" />
+       id="guide4086"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="44,44.000017"
        orientation="0,-40"
-       id="guide4088" />
+       id="guide4088"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="9,39.000017"
        orientation="30,0"
-       id="guide4092" />
+       id="guide4092"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="9,9.0000174"
        orientation="0,30"
-       id="guide4094" />
+       id="guide4094"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="39,9.0000174"
        orientation="-30,0"
-       id="guide4096" />
+       id="guide4096"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="39,39.000017"
        orientation="0,-30"
-       id="guide4098" />
+       id="guide4098"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="15,33.000017"
        orientation="18,0"
-       id="guide4100" />
+       id="guide4100"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="15,15.000017"
        orientation="0,18"
-       id="guide4102" />
+       id="guide4102"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="33,15.000017"
        orientation="-18,0"
-       id="guide4104" />
+       id="guide4104"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="33,33.000017"
        orientation="0,-18"
-       id="guide4106" />
+       id="guide4106"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -133,13 +166,25 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <rect
-       style="fill:#3b5999;fill-opacity:1;stroke:none"
-       id="rect4108"
+       style="fill:url(#linearGradient3771);fill-opacity:1;stroke:none"
+       id="rect4105"
        width="40"
        height="40"
        x="4"
        y="1008.3622"
-       ry="1.0000174" />
+       ry="0" />
+    <path
+       style="opacity:0.35;fill:#000000;fill-opacity:1;stroke:none"
+       d="M 4.0000042,1048.3619 44,1048.3622 c -19.999997,-1 -19.999997,-1 -39.9999972,0 z"
+       id="path3800"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path3804"
+       d="M 4.0000077,1008.3621 44,1008.3619 c -19.999993,1 -19.999993,1 -39.9999937,0 z"
+       style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none" />
     <path
        style="fill:url(#linearGradient3774);stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
        d="m 27.592473,38.999983 5.407527,-30 6,0 5,6 0,29 -11,0 z"
@@ -151,18 +196,5 @@
        inkscape:connector-curvature="0"
        id="path826"
        style="fill:#ecf0f1;fill-opacity:1" />
-    <path
-       style="fill:#e6e6e6;fill-opacity:1;stroke:none"
-       d="M 4,39 5,5 39,4 C 39,4 16.333333,3.999983 5,3.999983 4,3.999983 4,5 4,5 z"
-       id="path3778"
-       inkscape:connector-curvature="0"
-       transform="translate(0,1004.3622)"
-       sodipodi:nodetypes="cccscc" />
-    <path
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="m 44,1013.3622 -1,34 -34,1 c 0,0 22.666667,0 34,0 1,0 1,-1 1,-1 z"
-       id="path3778-1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccscc" />
   </g>
 </svg>

@@ -14,7 +14,7 @@
    width="48"
    height="48"
    id="svg2408"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="popcorntime.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="744"
+     inkscape:window-height="676"
      id="namedview55"
      showgrid="true"
-     inkscape:zoom="11.931133"
-     inkscape:cx="32.954156"
-     inkscape:cy="22.261175"
+     inkscape:zoom="23.862266"
+     inkscape:cx="33.806605"
+     inkscape:cy="36.419217"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2408">
     <inkscape:grid
@@ -122,7 +122,7 @@
      id="rect2419"
      y="4"
      x="4"
-     ry="0"
+     ry="3"
      rx="2.8571429"
      height="40"
      width="40" />
@@ -299,8 +299,8 @@
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.79999995;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <path
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none"
-     d="m 4,44 0,0 c 20,-1 20,-1 40,0 z"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+     d="m 8,44 v 0 c 16,-1 16,-1 32,0 z"
      id="path3257"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc" />
@@ -308,6 +308,6 @@
      sodipodi:nodetypes="cccc"
      inkscape:connector-curvature="0"
      id="path4027"
-     d="M 4,4 4,4 C 24,5 24,5 44,4 z"
-     style="opacity:0.75;fill:#ffffff;fill-opacity:1;stroke:none" />
+     d="M 8,4 V 4 C 24,5 24,5 40,4 Z"
+     style="opacity:0.75;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1" />
 </svg>

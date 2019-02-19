@@ -8,26 +8,23 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 16 16"
-   id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="emblem-ok-symbolic.svg"
-   width="16"
-   height="16">
+   id="svg13"
+   sodipodi:docname="emblem-symbolic-link.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
-     id="metadata12">
+     id="metadata19">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs10" />
+     id="defs17" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -37,64 +34,53 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
-     id="namedview8"
+     inkscape:window-width="1366"
+     inkscape:window-height="674"
+     id="namedview15"
      showgrid="true"
-     inkscape:showpageshadow="false"
-     borderlayer="true"
-     inkscape:zoom="29.511066"
-     inkscape:cx="6.2872798"
-     inkscape:cy="8.2092619"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:zoom="7.375"
+     inkscape:cx="-22.518475"
+     inkscape:cy="8.5211169"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="svg13"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-nodes="true">
     <inkscape:grid
        type="xygrid"
-       id="grid4141" />
-    <sodipodi:guide
-       position="0,16"
-       orientation="16,0"
-       id="guide4147" />
-    <sodipodi:guide
-       position="0,0"
-       orientation="0,16"
-       id="guide4149" />
-    <sodipodi:guide
-       position="16,0"
-       orientation="-16,0"
-       id="guide4151" />
-    <sodipodi:guide
-       position="16,16"
-       orientation="0,-16"
-       id="guide4153" />
-    <sodipodi:guide
-       position="2,14"
-       orientation="12,0"
-       id="guide4155" />
-    <sodipodi:guide
-       position="2,2"
-       orientation="0,12"
-       id="guide4157" />
-    <sodipodi:guide
-       position="14,2"
-       orientation="-12,0"
-       id="guide4159" />
-    <sodipodi:guide
-       position="14,14"
-       orientation="0,-12"
-       id="guide4161" />
+       id="grid11" />
   </sodipodi:namedview>
-  <g
-     transform="translate(-367.57143,-528.79075)"
-     id="layer1"
-     inkscape:label="Capa 1"
-     style="fill:#424854;fill-opacity:1;opacity:0.75">
-    <path
-       inkscape:connector-curvature="0"
-       id="rect4113"
-       d="m 382.8643,530.79077 -10.43876,10.56644 -4.14699,-4.19772 -0.70712,0.71578 4.14699,4.1977 -0.002,0.002 0.70713,0.71577 0.002,-0.002 0.002,0.002 0.70711,-0.71577 -0.002,-0.002 10.43877,-10.56645 -0.70712,-0.71576 z"
-       style="opacity:1;fill:#424854;fill-opacity:1;stroke:none" />
-  </g>
+  <style
+     type="text/css"
+     id="current-color-scheme">
+        .ColorScheme-Text {
+            color:#eff0f1;
+        }
+    </style>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+     class="ColorScheme-NegativeText"
+     d="M 8.0000002,5e-7 A 7.9999997,7.9999997 0 0 0 4.8e-7,8.0000002 7.9999997,7.9999997 0 0 0 8.0000002,16 7.9999997,7.9999997 0 0 0 16,8.0000002 7.9999997,7.9999997 0 0 0 8.0000002,5e-7 Z"
+     id="path4" />
+  <path
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+     d="M 4 5 A 3 3 0 0 0 1 8 A 3 3 0 0 0 4 11 A 3 3 0 0 0 7 8 A 3 3 0 0 0 4 5 z M 4 6 A 2 2 0 0 1 6 8 A 2 2 0 0 1 4 10 A 2 2 0 0 1 2 8 A 2 2 0 0 1 4 6 z "
+     id="path17" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+     id="rect21"
+     width="6"
+     height="2"
+     x="5"
+     y="7"
+     rx="1"
+     ry="1" />
+  <path
+     id="path27"
+     d="m 12,5 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m 0,1 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 z"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+     inkscape:connector-curvature="0" />
 </svg>
